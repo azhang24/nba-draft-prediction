@@ -44,6 +44,8 @@ def get_draft_class(year, ncaa_only=False):
     for player in player_rows:
         if not player.has_attr('class'):
             attributes = player.find_all('td')
+            if len(attributes) == 1 and attributes[0].get('data-stat') == 'skip':
+                continue
             player_college = attributes[3]
             player_college_name = ""
             if len(player_college.contents) == 0 and ncaa_only:
@@ -56,7 +58,12 @@ def get_draft_class(year, ncaa_only=False):
 def get_total_win_shares_nba(player_name, start_year=None, num_seasons=None, playoffs=False):
     names = player_name.split()
     first_name = names[0]
-    last_name = names[1]
+    last_name = ""
+    if len(names) == 1:
+        if first_name == "Nenê":
+            last_name = "Hilário"
+    else:
+        last_name = names[1]
     first_name = unidecode.unidecode(first_name.lower())
     last_name = unidecode.unidecode(last_name.lower())
     player_id = last_name[:5]+first_name[:2]
