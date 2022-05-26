@@ -1,85 +1,13 @@
 from bs4 import BeautifulSoup
 import requests
 import unidecode
+from overrides import player_id_override_mapping, player_name_override_mapping, player_id_override_mapping_ncaa, player_name_override_mapping_ncaa, player_year_override_mapping
 
 exclude_stats = ['season', 'school_name', 'conf_abbr', 'sos-dum', 'ws-dum', 'poss-dum', 'bpm-dum']
-player_id_override_mapping = {
-    ("Derrick Williams", 2011): "02",
-    ("Brandon Knight", 2011): "03",
-    ("Kemba Walker", 2011): "02",
-    ("Markieff Morris", 2011): "02",
-    ("Marcus Morris", 2011): "03",
-    ("Tobias Harris", 2011): "02",
-    ("Jordan Hamilton", 2011): "02",
-    ("JaJuan Johnson", 2011): "02",
-    ("Bojan Bogdanović", 2011): "02",
-    ("Jordan Williams", 2011): "03",
-    ("Trey Thompkins", 2011): "02",
-    ("Keith Benson", 2011): "02",
-    ("Isaiah Thomas", 2011): "02",
-    ("Anthony Davis", 2012): "02",
-    ("Harrison Barnes", 2012): "02",
-    ("Royce White", 2012): "03",
-    ("Jeff Taylor", 2012): "03",
-    ("Darius Johnson-Odom", 2012): "03",
-    ("Tim Hardaway Jr.", 2013): "02",
-    ("Andre Roberson", 2013): "03",
-    ("Glen Rice Jr.", 2013): "02",
-    ("Tony Mitchell", 2013): "02",
-    ("P.J. Hairston", 2014): "02",
-    ("Glenn Robinson III", 2014): "02",
-    ("Markel Brown", 2014): "02",
-    ("Stanley Johnson", 2015): "04",
-    ("Jerian Grant", 2015): "02",
-    ("Larry Nance Jr.", 2015): "02",
-    ("Anthony Brown", 2015): "02",
-    ("Marcus Thornton", 2015): "02",
-    ("Dakari Johnson", 2015): "04",
-    ("Jaylen Brown", 2016): "02",
-    ("Taurean Prince", 2016): "02",
-    ("Brice Johnson", 2016): "02",
-    ("Damian Jones", 2016): "03",
-    ("Daniel Hamilton", 2016): "02",
-    ("Josh Jackson", 2017): "02",
-    ("Dennis Smith Jr.", 2017): "03",
-    ("Sterling Brown", 2017): "02",
-    ("Jaren Jackson Jr.", 2018): "02",
-    ("Miles Bridges", 2018): "02",
-    ("Robert Williams", 2018): "04",
-    ("Jacob Evans", 2018): "02",
-    ("Gary Trent Jr.", 2018): "02",
-    ("Justin Jackson", 2018): "02",
-    ("Alize Johnson", 2018): "02",
-    ("George King", 2018): "03",
-    ("Jaxson Hayes", 2019): "02",
-    ("Cameron Johnson", 2019): "02",
-    ("Keldon Johnson", 2019): "04",
-    ("Kevin Porter Jr.", 2019): "02",
-    ("Justin Wright-Foreman", 2019): "02",
-    ("Jalen Smith", 2020): "04",
-    ("Josh Green", 2020): "02",
-    ("Jaden McDaniels", 2020): "02",
-    ("Kenyon Martin Jr.", 2020): "04",
-    ("Jalen Green", 2021): "05",
-    ("Ziaire Williams", 2021): "02",
-    ("Trey Murphy III", 2021): "02",
-    ("Jalen Johnson", 2021): "05",
-    ("Keon Johnson", 2021): "07",
-    ("Cam Thomas", 2021): "02",
-    ("Jeremiah Robinson-Earl", 2021): "02",
-    ("Jared Butler", 2021): "02",
-    ("Kessler Edwards", 2021): "02",
-    ("David Johnson", 2021): "08"  
-}
-player_name_override_mapping = {
-    "Enes Freedom": "Enes Kanter",
-    "Nenê": "Nenê Hilário"
-}
+
 
 def get_player_ncaa_stats(player_name, stat_types, year):
-    player_name = "-".join(player_name.lower().split())
-    url = "https://www.sports-reference.com/cbb/players/{}-1.html".format(player_name)
-    soup = get_soup(url)
+    soup, year = get_ncaa_player_soup(player_name, year)
     player_stats = {}
     for stat_type in stat_types:
         if stat_type == "Per Game":
@@ -99,7 +27,10 @@ def get_stat_type(soup, stat_id, player_stats):
         for child in children:
             stat = child.get('data-stat')
             if stat not in exclude_stats:
-                player_stats[stat] = float(child.contents[0])
+                if len(child.contents) == 0:
+                    player_stats[stat] = 0.0
+                else:
+                    player_stats[stat] = float(child.contents[0])
     return player_stats
     
 
@@ -125,8 +56,7 @@ def get_draft_class(year, ncaa_only=False):
     return players
 
 def get_total_win_shares_nba(player_name, draft_year, start_year=None, num_seasons=None, playoffs=False):
-    soup = get_player_soup(player_name, draft_year)
-    print(player_name)
+    soup = get_nba_player_soup(player_name, draft_year)
     if num_seasons == None: # Get entire career
         num_seasons = get_num_seasons(soup, start_year)
     total_ws = get_total_win_shares_from_soup(soup, start_year, num_seasons)
@@ -156,7 +86,7 @@ def get_win_shares_for_year(soup, year, playoffs=False):
     return float(ws)
 
 def get_max_win_shares_nba(player_name, draft_year, start_year=None, num_seasons=None, playoffs=False):
-    soup = get_player_soup(player_name, draft_year)
+    soup = get_nba_player_soup(player_name, draft_year)
     if num_seasons == None: # Get entire career
         num_seasons = get_num_seasons(soup, start_year)
     max_ws = -10000000000.0
@@ -172,7 +102,26 @@ def get_max_win_shares_nba(player_name, draft_year, start_year=None, num_seasons
         max_ws = 0.0
     return max_ws
 
-def get_player_soup(player_name, draft_year):
+def get_ncaa_player_soup(player_name, year):
+    player_id = "1"
+    if player_name in player_year_override_mapping:
+        year = player_year_override_mapping[player_name]
+    if (player_name, year) in player_id_override_mapping_ncaa:
+        player_id = player_id_override_mapping_ncaa[(player_name, year)]
+    if player_name in player_name_override_mapping_ncaa:
+        player_name = player_name_override_mapping_ncaa[player_name]
+    names = player_name.lower().split()
+    processed_names = []
+    for name in names:
+        name = unidecode.unidecode(name)
+        name = name.replace(".", "")
+        name = name.replace("\'", "")
+        processed_names.append(name)
+    player_name = "-".join(processed_names)
+    url = "https://www.sports-reference.com/cbb/players/{}-{}.html".format(player_name, player_id)
+    return get_soup(url), year
+
+def get_nba_player_soup(player_name, draft_year):
     if player_name in player_name_override_mapping:
         player_name = player_name_override_mapping[player_name]
     names = player_name.split()
