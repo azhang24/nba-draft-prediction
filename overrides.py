@@ -105,7 +105,12 @@ player_id_override_mapping_ncaa = {
     ("Bruce Brown", 2018): "2",
     ("Justin Jackson", 2018): "5",
     ("Vince Edwards", 2018): "2",
-
+    ("Jabari Smith", 2022): "2",
+    ("Jonathan Davis", 2022): "3",
+    ("Mark Williams", 2022): "7",
+    ("Jalen Williams", 2022): "13",
+    ("Jaylin Williams", 2022): "2",
+    
 }
 player_name_override_mapping_ncaa = {
     "Jeff Taylor": "Jeffery Taylor",

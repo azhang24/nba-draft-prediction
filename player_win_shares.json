@@ -1,6 +1,7 @@
 {
     "2011": [
         {
+            "player_name": "Kyrie Irving",
             "ncaa_stats": {
                 "g": 11.0,
                 "gs": 8.0,
@@ -82,11 +83,11 @@
                 "dbpm": 5.0,
                 "bpm": 14.8
             },
-            "player_name": "Kyrie Irving",
-            "total_win_shares": 72.0,
+            "total_win_shares": 26.5,
             "max_win_shares": 10.4
         },
         {
+            "player_name": "Derrick Williams",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 38.0,
@@ -168,11 +169,11 @@
                 "dbpm": 2.5,
                 "bpm": 12.1
             },
-            "player_name": "Derrick Williams",
-            "total_win_shares": 14.2,
+            "total_win_shares": 9.5,
             "max_win_shares": 3.6
         },
         {
+            "player_name": "Tristan Thompson",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 34.0,
@@ -254,11 +255,11 @@
                 "dbpm": 4.5,
                 "bpm": 8.9
             },
-            "player_name": "Tristan Thompson",
-            "total_win_shares": 47.5,
+            "total_win_shares": 18.8,
             "max_win_shares": 8.7
         },
         {
+            "player_name": "Brandon Knight",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 38.0,
@@ -340,11 +341,11 @@
                 "dbpm": 0.9,
                 "bpm": 5.5
             },
-            "player_name": "Brandon Knight",
-            "total_win_shares": 11.7,
+            "total_win_shares": 9.7,
             "max_win_shares": 4.5
         },
         {
+            "player_name": "Kemba Walker",
             "ncaa_stats": {
                 "g": 41.0,
                 "gs": 41.0,
@@ -426,11 +427,11 @@
                 "dbpm": 3.9,
                 "bpm": 13.1
             },
-            "player_name": "Kemba Walker",
-            "total_win_shares": 59.699999999999996,
+            "total_win_shares": 14.7,
             "max_win_shares": 9.9
         },
         {
+            "player_name": "Jimmer Fredette",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -512,11 +513,11 @@
                 "dbpm": 0.8,
                 "bpm": 10.8
             },
-            "player_name": "Jimmer Fredette",
-            "total_win_shares": 2.2,
+            "total_win_shares": 2.4000000000000004,
             "max_win_shares": 1.1
         },
         {
+            "player_name": "Klay Thompson",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 33.0,
@@ -598,11 +599,11 @@
                 "dbpm": 3.0,
                 "bpm": 9.8
             },
-            "player_name": "Klay Thompson",
-            "total_win_shares": 48.599999999999994,
+            "total_win_shares": 21.5,
             "max_win_shares": 8.8
         },
         {
+            "player_name": "Alec Burks",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 37.0,
@@ -684,11 +685,11 @@
                 "dbpm": 0.0,
                 "bpm": 8.1
             },
-            "player_name": "Alec Burks",
-            "total_win_shares": 26.200000000000003,
+            "total_win_shares": 7.4,
             "max_win_shares": 6.1
         },
         {
+            "player_name": "Markieff Morris",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 34.0,
@@ -770,11 +771,11 @@
                 "dbpm": 3.6,
                 "bpm": 10.3
             },
-            "player_name": "Markieff Morris",
-            "total_win_shares": 27.000000000000004,
+            "total_win_shares": 14.200000000000001,
             "max_win_shares": 6.4
         },
         {
+            "player_name": "Marcus Morris",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 35.0,
@@ -856,11 +857,11 @@
                 "dbpm": 2.9,
                 "bpm": 10.9
             },
-            "player_name": "Marcus Morris",
-            "total_win_shares": 36.4,
+            "total_win_shares": 9.8,
             "max_win_shares": 5.4
         },
         {
+            "player_name": "Kawhi Leonard",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -942,11 +943,11 @@
                 "dbpm": 3.9,
                 "bpm": 9.2
             },
-            "player_name": "Kawhi Leonard",
-            "total_win_shares": 83.2,
+            "total_win_shares": 28.0,
             "max_win_shares": 13.7
         },
         {
+            "player_name": "Nikola Vučević",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -1028,11 +1029,11 @@
                 "dbpm": 2.8,
                 "bpm": 9.4
             },
-            "player_name": "Nikola Vučević",
-            "total_win_shares": 58.99999999999999,
+            "total_win_shares": 18.9,
             "max_win_shares": 10.1
         },
         {
+            "player_name": "Iman Shumpert",
             "ncaa_stats": {
                 "g": 31.0,
                 "gs": 31.0,
@@ -1114,11 +1115,11 @@
                 "dbpm": 4.2,
                 "bpm": 9.6
             },
-            "player_name": "Iman Shumpert",
-            "total_win_shares": 12.9,
+            "total_win_shares": 7.8,
             "max_win_shares": 2.4
         },
         {
+            "player_name": "Chris Singleton",
             "ncaa_stats": {
                 "g": 28.0,
                 "gs": 25.0,
@@ -1200,11 +1201,11 @@
                 "dbpm": 5.6,
                 "bpm": 9.0
             },
-            "player_name": "Chris Singleton",
             "total_win_shares": 2.2,
             "max_win_shares": 1.5
         },
         {
+            "player_name": "Tobias Harris",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 33.0,
@@ -1286,11 +1287,11 @@
                 "dbpm": 1.8,
                 "bpm": 7.3
             },
-            "player_name": "Tobias Harris",
-            "total_win_shares": 58.300000000000004,
+            "total_win_shares": 12.2,
             "max_win_shares": 7.1
         },
         {
+            "player_name": "Nolan Smith",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -1372,11 +1373,11 @@
                 "dbpm": 2.3,
                 "bpm": 9.9
             },
-            "player_name": "Nolan Smith",
             "total_win_shares": -0.8,
             "max_win_shares": -0.3
         },
         {
+            "player_name": "Kenneth Faried",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 34.0,
@@ -1458,11 +1459,11 @@
                 "dbpm": 2.3,
                 "bpm": 8.5
             },
-            "player_name": "Kenneth Faried",
-            "total_win_shares": 38.699999999999996,
+            "total_win_shares": 24.5,
             "max_win_shares": 7.8
         },
         {
+            "player_name": "Reggie Jackson",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 32.0,
@@ -1544,11 +1545,11 @@
                 "dbpm": 0.9,
                 "bpm": 9.8
             },
-            "player_name": "Reggie Jackson",
-            "total_win_shares": 33.4,
+            "total_win_shares": 12.4,
             "max_win_shares": 6.9
         },
         {
+            "player_name": "MarShon Brooks",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 31.0,
@@ -1630,11 +1631,11 @@
                 "dbpm": 1.5,
                 "bpm": 10.3
             },
-            "player_name": "MarShon Brooks",
-            "total_win_shares": 3.3000000000000003,
+            "total_win_shares": 2.5,
             "max_win_shares": 1.3
         },
         {
+            "player_name": "Jordan Hamilton",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -1716,11 +1717,11 @@
                 "dbpm": 3.1,
                 "bpm": 11.4
             },
-            "player_name": "Jordan Hamilton",
-            "total_win_shares": 3.0000000000000004,
+            "total_win_shares": 2.8000000000000003,
             "max_win_shares": 1.6
         },
         {
+            "player_name": "JaJuan Johnson",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 33.0,
@@ -1802,11 +1803,11 @@
                 "dbpm": 3.5,
                 "bpm": 10.5
             },
-            "player_name": "JaJuan Johnson",
             "total_win_shares": 0.2,
             "max_win_shares": 0.2
         },
         {
+            "player_name": "Norris Cole",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -1888,11 +1889,11 @@
                 "dbpm": 3.5,
                 "bpm": 10.2
             },
-            "player_name": "Norris Cole",
-            "total_win_shares": 2.9999999999999996,
+            "total_win_shares": 3.1999999999999997,
             "max_win_shares": 1.4
         },
         {
+            "player_name": "Cory Joseph",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -1974,11 +1975,11 @@
                 "dbpm": 3.8,
                 "bpm": 6.5
             },
-            "player_name": "Cory Joseph",
-            "total_win_shares": 28.700000000000003,
+            "total_win_shares": 8.3,
             "max_win_shares": 4.5
         },
         {
+            "player_name": "Jimmy Butler",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 35.0,
@@ -2060,11 +2061,11 @@
                 "dbpm": 2.2,
                 "bpm": 9.4
             },
-            "player_name": "Jimmy Butler",
-            "total_win_shares": 93.6,
+            "total_win_shares": 26.4,
             "max_win_shares": 13.8
         },
         {
+            "player_name": "Justin Harper",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -2146,11 +2147,11 @@
                 "dbpm": 1.5,
                 "bpm": 9.7
             },
-            "player_name": "Justin Harper",
-            "total_win_shares": -0.4,
+            "total_win_shares": -0.3,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Kyle Singler",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -2232,11 +2233,11 @@
                 "dbpm": 1.8,
                 "bpm": 6.4
             },
-            "player_name": "Kyle Singler",
-            "total_win_shares": 10.1,
+            "total_win_shares": 8.7,
             "max_win_shares": 4.4
         },
         {
+            "player_name": "Shelvin Mack",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 37.0,
@@ -2318,11 +2319,11 @@
                 "dbpm": 1.0,
                 "bpm": 6.6
             },
-            "player_name": "Shelvin Mack",
-            "total_win_shares": 10.3,
+            "total_win_shares": 4.8,
             "max_win_shares": 2.3
         },
         {
+            "player_name": "Tyler Honeycutt",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -2404,11 +2405,11 @@
                 "dbpm": 3.5,
                 "bpm": 7.1
             },
-            "player_name": "Tyler Honeycutt",
             "total_win_shares": -0.1,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Jordan Williams",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -2490,11 +2491,11 @@
                 "dbpm": 2.0,
                 "bpm": 6.3
             },
-            "player_name": "Jordan Williams",
             "total_win_shares": 1.3,
             "max_win_shares": 1.3
         },
         {
+            "player_name": "Trey Thompkins",
             "ncaa_stats": {
                 "g": 30.0,
                 "gs": 29.0,
@@ -2576,11 +2577,11 @@
                 "dbpm": 2.9,
                 "bpm": 6.8
             },
-            "player_name": "Trey Thompkins",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Chandler Parsons",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 35.0,
@@ -2662,11 +2663,11 @@
                 "dbpm": 3.2,
                 "bpm": 8.3
             },
-            "player_name": "Chandler Parsons",
-            "total_win_shares": 29.0,
+            "total_win_shares": 23.5,
             "max_win_shares": 7.6
         },
         {
+            "player_name": "Jon Leuer",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -2748,11 +2749,11 @@
                 "dbpm": 1.8,
                 "bpm": 9.8
             },
-            "player_name": "Jon Leuer",
-            "total_win_shares": 13.1,
+            "total_win_shares": 4.8999999999999995,
             "max_win_shares": 4.5
         },
         {
+            "player_name": "Darius Morris",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 34.0,
@@ -2834,11 +2835,11 @@
                 "dbpm": 1.8,
                 "bpm": 6.3
             },
-            "player_name": "Darius Morris",
             "total_win_shares": -0.4,
             "max_win_shares": 0.2
         },
         {
+            "player_name": "Malcolm Lee",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -2920,11 +2921,11 @@
                 "dbpm": 1.2,
                 "bpm": 3.3
             },
-            "player_name": "Malcolm Lee",
             "total_win_shares": 0.5,
             "max_win_shares": 0.4
         },
         {
+            "player_name": "Charles Jenkins",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -3006,11 +3007,11 @@
                 "dbpm": 1.2,
                 "bpm": 9.6
             },
-            "player_name": "Charles Jenkins",
             "total_win_shares": 0.5,
             "max_win_shares": 0.5
         },
         {
+            "player_name": "Josh Harrellson",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 38.0,
@@ -3092,11 +3093,11 @@
                 "dbpm": 3.8,
                 "bpm": 8.7
             },
-            "player_name": "Josh Harrellson",
             "total_win_shares": 2.0999999999999996,
             "max_win_shares": 1.4
         },
         {
+            "player_name": "Andrew Goudelock",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -3178,11 +3179,11 @@
                 "dbpm": -1.4,
                 "bpm": 6.0
             },
-            "player_name": "Andrew Goudelock",
             "total_win_shares": 0.1,
             "max_win_shares": 0.1
         },
         {
+            "player_name": "Travis Leslie",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -3264,11 +3265,11 @@
                 "dbpm": 2.3,
                 "bpm": 8.9
             },
-            "player_name": "Travis Leslie",
             "total_win_shares": 0.1,
             "max_win_shares": 0.1
         },
         {
+            "player_name": "Keith Benson",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -3350,11 +3351,11 @@
                 "dbpm": 1.9,
                 "bpm": 5.4
             },
-            "player_name": "Keith Benson",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Josh Selby",
             "ncaa_stats": {
                 "g": 26.0,
                 "gs": 11.0,
@@ -3436,11 +3437,11 @@
                 "dbpm": 2.1,
                 "bpm": 2.4
             },
-            "player_name": "Josh Selby",
             "total_win_shares": -0.7,
             "max_win_shares": -0.2
         },
         {
+            "player_name": "Lavoy Allen",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -3522,11 +3523,11 @@
                 "dbpm": 3.1,
                 "bpm": 5.6
             },
-            "player_name": "Lavoy Allen",
-            "total_win_shares": 13.799999999999997,
+            "total_win_shares": 8.399999999999999,
             "max_win_shares": 3.7
         },
         {
+            "player_name": "Jon Diebler",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 36.0,
@@ -3608,11 +3609,11 @@
                 "dbpm": 3.6,
                 "bpm": 11.6
             },
-            "player_name": "Jon Diebler",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Vernon Macklin",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 35.0,
@@ -3694,11 +3695,11 @@
                 "dbpm": 1.4,
                 "bpm": 4.5
             },
-            "player_name": "Vernon Macklin",
             "total_win_shares": 0.5,
             "max_win_shares": 0.5
         },
         {
+            "player_name": "DeAndre Liggins",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 28.0,
@@ -3780,11 +3781,11 @@
                 "dbpm": 4.5,
                 "bpm": 5.9
             },
-            "player_name": "DeAndre Liggins",
-            "total_win_shares": 1.6,
+            "total_win_shares": 0.6,
             "max_win_shares": 0.6
         },
         {
+            "player_name": "E'Twaun Moore",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 33.0,
@@ -3866,11 +3867,11 @@
                 "dbpm": 3.1,
                 "bpm": 10.2
             },
-            "player_name": "E'Twaun Moore",
-            "total_win_shares": 14.8,
+            "total_win_shares": 2.9000000000000004,
             "max_win_shares": 4.4
         },
         {
+            "player_name": "Isaiah Thomas",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -3952,13 +3953,13 @@
                 "dbpm": 1.9,
                 "bpm": 8.1
             },
-            "player_name": "Isaiah Thomas",
-            "total_win_shares": 45.2,
+            "total_win_shares": 23.1,
             "max_win_shares": 12.5
         }
     ],
     "2012": [
         {
+            "player_name": "Anthony Davis",
             "ncaa_stats": {
                 "g": 40.0,
                 "gs": 40.0,
@@ -4040,11 +4041,11 @@
                 "dbpm": 8.1,
                 "bpm": 17.2
             },
-            "player_name": "Anthony Davis",
-            "total_win_shares": 91.2,
+            "total_win_shares": 37.7,
             "max_win_shares": 14.0
         },
         {
+            "player_name": "Michael Kidd-Gilchrist",
             "ncaa_stats": {
                 "g": 40.0,
                 "gs": 39.0,
@@ -4126,11 +4127,11 @@
                 "dbpm": 3.6,
                 "bpm": 7.7
             },
-            "player_name": "Michael Kidd-Gilchrist",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Bradley Beal",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -4212,11 +4213,11 @@
                 "dbpm": 2.9,
                 "bpm": 8.4
             },
-            "player_name": "Bradley Beal",
-            "total_win_shares": 48.8,
+            "total_win_shares": 13.399999999999999,
             "max_win_shares": 8.5
         },
         {
+            "player_name": "Dion Waiters",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 0.0,
@@ -4298,11 +4299,11 @@
                 "dbpm": 4.8,
                 "bpm": 10.8
             },
-            "player_name": "Dion Waiters",
-            "total_win_shares": 8.7,
+            "total_win_shares": 5.7,
             "max_win_shares": 2.1
         },
         {
+            "player_name": "Thomas Robinson",
             "ncaa_stats": {
                 "g": 39.0,
                 "gs": 39.0,
@@ -4384,11 +4385,11 @@
                 "dbpm": 3.4,
                 "bpm": 8.8
             },
-            "player_name": "Thomas Robinson",
-            "total_win_shares": 4.5,
+            "total_win_shares": 3.6,
             "max_win_shares": 1.6
         },
         {
+            "player_name": "Damian Lillard",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 32.0,
@@ -4470,11 +4471,11 @@
                 "dbpm": 0.7,
                 "bpm": 9.8
             },
-            "player_name": "Damian Lillard",
-            "total_win_shares": 94.0,
+            "total_win_shares": 35.2,
             "max_win_shares": 12.6
         },
         {
+            "player_name": "Harrison Barnes",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 37.0,
@@ -4556,11 +4557,11 @@
                 "dbpm": 2.3,
                 "bpm": 6.8
             },
-            "player_name": "Harrison Barnes",
-            "total_win_shares": 44.7,
+            "total_win_shares": 17.6,
             "max_win_shares": 6.7
         },
         {
+            "player_name": "Terrence Ross",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -4642,11 +4643,11 @@
                 "dbpm": 2.8,
                 "bpm": 7.9
             },
-            "player_name": "Terrence Ross",
-            "total_win_shares": 23.4,
+            "total_win_shares": 11.1,
             "max_win_shares": 4.3
         },
         {
+            "player_name": "Andre Drummond",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 30.0,
@@ -4728,11 +4729,11 @@
                 "dbpm": 2.9,
                 "bpm": 4.9
             },
-            "player_name": "Andre Drummond",
-            "total_win_shares": 67.8,
+            "total_win_shares": 29.5,
             "max_win_shares": 10.3
         },
         {
+            "player_name": "Austin Rivers",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 33.0,
@@ -4814,11 +4815,11 @@
                 "dbpm": 0.8,
                 "bpm": 4.0
             },
-            "player_name": "Austin Rivers",
-            "total_win_shares": 13.9,
+            "total_win_shares": 2.9,
             "max_win_shares": 2.5
         },
         {
+            "player_name": "Meyers Leonard",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 29.0,
@@ -4900,11 +4901,11 @@
                 "dbpm": 3.6,
                 "bpm": 7.2
             },
-            "player_name": "Meyers Leonard",
-            "total_win_shares": 15.6,
+            "total_win_shares": 8.0,
             "max_win_shares": 3.0
         },
         {
+            "player_name": "Jeremy Lamb",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -4986,11 +4987,11 @@
                 "dbpm": 2.0,
                 "bpm": 7.8
             },
-            "player_name": "Jeremy Lamb",
-            "total_win_shares": 26.7,
+            "total_win_shares": 7.8,
             "max_win_shares": 5.3
         },
         {
+            "player_name": "Kendall Marshall",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 35.0,
@@ -5072,11 +5073,11 @@
                 "dbpm": 2.8,
                 "bpm": 6.6
             },
-            "player_name": "Kendall Marshall",
             "total_win_shares": 1.0,
             "max_win_shares": 0.9
         },
         {
+            "player_name": "John Henson",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 34.0,
@@ -5158,11 +5159,11 @@
                 "dbpm": 5.0,
                 "bpm": 9.0
             },
-            "player_name": "John Henson",
-            "total_win_shares": 20.699999999999996,
+            "total_win_shares": 11.099999999999998,
             "max_win_shares": 4.9
         },
         {
+            "player_name": "Maurice Harkless",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 32.0,
@@ -5244,11 +5245,11 @@
                 "dbpm": 1.0,
                 "bpm": 4.0
             },
-            "player_name": "Maurice Harkless",
-            "total_win_shares": 22.999999999999996,
+            "total_win_shares": 8.399999999999999,
             "max_win_shares": 4.2
         },
         {
+            "player_name": "Royce White",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 33.0,
@@ -5330,11 +5331,11 @@
                 "dbpm": 3.8,
                 "bpm": 8.2
             },
-            "player_name": "Royce White",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Tyler Zeller",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 38.0,
@@ -5416,11 +5417,11 @@
                 "dbpm": 3.9,
                 "bpm": 10.7
             },
-            "player_name": "Tyler Zeller",
-            "total_win_shares": 17.0,
+            "total_win_shares": 12.799999999999999,
             "max_win_shares": 6.5
         },
         {
+            "player_name": "Terrence Jones",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 34.0,
@@ -5502,11 +5503,11 @@
                 "dbpm": 4.9,
                 "bpm": 10.2
             },
-            "player_name": "Terrence Jones",
-            "total_win_shares": 14.700000000000001,
+            "total_win_shares": 12.5,
             "max_win_shares": 7.3
         },
         {
+            "player_name": "Andrew Nicholson",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 32.0,
@@ -5588,11 +5589,11 @@
                 "dbpm": 2.1,
                 "bpm": 9.4
             },
-            "player_name": "Andrew Nicholson",
-            "total_win_shares": 3.9,
+            "total_win_shares": 4.0,
             "max_win_shares": 1.7
         },
         {
+            "player_name": "Jared Sullinger",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 36.0,
@@ -5674,11 +5675,11 @@
                 "dbpm": 4.1,
                 "bpm": 11.7
             },
-            "player_name": "Jared Sullinger",
-            "total_win_shares": 15.299999999999999,
+            "total_win_shares": 15.399999999999999,
             "max_win_shares": 4.8
         },
         {
+            "player_name": "Fab Melo",
             "ncaa_stats": {
                 "g": 30.0,
                 "gs": 30.0,
@@ -5760,11 +5761,11 @@
                 "dbpm": 4.3,
                 "bpm": 5.3
             },
-            "player_name": "Fab Melo",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "John Jenkins",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -5846,11 +5847,11 @@
                 "dbpm": 1.5,
                 "bpm": 11.8
             },
-            "player_name": "John Jenkins",
-            "total_win_shares": 2.9000000000000004,
+            "total_win_shares": 2.7,
             "max_win_shares": 1.7
         },
         {
+            "player_name": "Jared Cunningham",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 35.0,
@@ -5932,11 +5933,11 @@
                 "dbpm": 1.6,
                 "bpm": 5.0
             },
-            "player_name": "Jared Cunningham",
             "total_win_shares": 0.2,
             "max_win_shares": 0.1
         },
         {
+            "player_name": "Tony Wroten",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 27.0,
@@ -6018,11 +6019,11 @@
                 "dbpm": 2.2,
                 "bpm": 4.7
             },
-            "player_name": "Tony Wroten",
             "total_win_shares": -1.3,
             "max_win_shares": 0.3
         },
         {
+            "player_name": "Miles Plumlee",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 16.0,
@@ -6104,11 +6105,11 @@
                 "dbpm": 2.1,
                 "bpm": 6.2
             },
-            "player_name": "Miles Plumlee",
-            "total_win_shares": 10.700000000000001,
+            "total_win_shares": 8.8,
             "max_win_shares": 4.0
         },
         {
+            "player_name": "Arnett Moultrie",
             "ncaa_stats": {
                 "g": 30.0,
                 "gs": 30.0,
@@ -6190,11 +6191,11 @@
                 "dbpm": 0.4,
                 "bpm": 5.2
             },
-            "player_name": "Arnett Moultrie",
             "total_win_shares": 1.7,
             "max_win_shares": 1.7
         },
         {
+            "player_name": "Perry Jones",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -6276,11 +6277,11 @@
                 "dbpm": 1.5,
                 "bpm": 5.2
             },
-            "player_name": "Perry Jones",
             "total_win_shares": 1.7,
             "max_win_shares": 1.5
         },
         {
+            "player_name": "Marquis Teague",
             "ncaa_stats": {
                 "g": 40.0,
                 "gs": 40.0,
@@ -6362,11 +6363,11 @@
                 "dbpm": 1.4,
                 "bpm": 2.3
             },
-            "player_name": "Marquis Teague",
-            "total_win_shares": -0.9,
+            "total_win_shares": -0.8,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Festus Ezeli",
             "ncaa_stats": {
                 "g": 26.0,
                 "gs": 22.0,
@@ -6448,11 +6449,11 @@
                 "dbpm": 3.3,
                 "bpm": 3.7
             },
-            "player_name": "Festus Ezeli",
             "total_win_shares": 5.9,
             "max_win_shares": 2.7
         },
         {
+            "player_name": "Jeff Taylor",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -6534,11 +6535,11 @@
                 "dbpm": 1.8,
                 "bpm": 8.0
             },
-            "player_name": "Jeff Taylor",
             "total_win_shares": 1.3,
             "max_win_shares": 1.2
         },
         {
+            "player_name": "Bernard James",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -6620,11 +6621,11 @@
                 "dbpm": 4.0,
                 "bpm": 7.6
             },
-            "player_name": "Bernard James",
             "total_win_shares": 1.8,
             "max_win_shares": 1.2
         },
         {
+            "player_name": "Jae Crowder",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -6706,11 +6707,11 @@
                 "dbpm": 5.4,
                 "bpm": 13.8
             },
-            "player_name": "Jae Crowder",
-            "total_win_shares": 40.099999999999994,
+            "total_win_shares": 15.0,
             "max_win_shares": 7.3
         },
         {
+            "player_name": "Draymond Green",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 36.0,
@@ -6792,11 +6793,11 @@
                 "dbpm": 5.6,
                 "bpm": 12.1
             },
-            "player_name": "Draymond Green",
-            "total_win_shares": 52.6,
+            "total_win_shares": 24.7,
             "max_win_shares": 11.1
         },
         {
+            "player_name": "Orlando Johnson",
             "ncaa_stats": {
                 "g": 31.0,
                 "gs": 31.0,
@@ -6878,11 +6879,11 @@
                 "dbpm": -0.2,
                 "bpm": 6.3
             },
-            "player_name": "Orlando Johnson",
             "total_win_shares": 1.4000000000000001,
             "max_win_shares": 1.5
         },
         {
+            "player_name": "Quincy Acy",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 38.0,
@@ -6964,11 +6965,11 @@
                 "dbpm": 3.4,
                 "bpm": 6.9
             },
-            "player_name": "Quincy Acy",
-            "total_win_shares": 8.6,
+            "total_win_shares": 6.8,
             "max_win_shares": 2.5
         },
         {
+            "player_name": "Quincy Miller",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 35.0,
@@ -7050,11 +7051,11 @@
                 "dbpm": 1.9,
                 "bpm": 5.3
             },
-            "player_name": "Quincy Miller",
             "total_win_shares": -0.1,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Khris Middleton",
             "ncaa_stats": {
                 "g": 20.0,
                 "gs": 17.0,
@@ -7136,11 +7137,11 @@
                 "dbpm": 1.9,
                 "bpm": 6.2
             },
-            "player_name": "Khris Middleton",
-            "total_win_shares": 50.599999999999994,
+            "total_win_shares": 16.4,
             "max_win_shares": 7.9
         },
         {
+            "player_name": "Will Barton",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 34.0,
@@ -7222,11 +7223,11 @@
                 "dbpm": 2.8,
                 "bpm": 9.8
             },
-            "player_name": "Will Barton",
-            "total_win_shares": 25.999999999999996,
+            "total_win_shares": 5.699999999999999,
             "max_win_shares": 6.2
         },
         {
+            "player_name": "Tyshawn Taylor",
             "ncaa_stats": {
                 "g": 39.0,
                 "gs": 38.0,
@@ -7308,11 +7309,11 @@
                 "dbpm": 2.2,
                 "bpm": 7.2
             },
-            "player_name": "Tyshawn Taylor",
             "total_win_shares": -1.0,
             "max_win_shares": -0.4
         },
         {
+            "player_name": "Doron Lamb",
             "ncaa_stats": {
                 "g": 40.0,
                 "gs": 35.0,
@@ -7394,11 +7395,11 @@
                 "dbpm": 1.9,
                 "bpm": 7.3
             },
-            "player_name": "Doron Lamb",
             "total_win_shares": 0.09999999999999998,
             "max_win_shares": 0.5
         },
         {
+            "player_name": "Mike Scott",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 32.0,
@@ -7480,11 +7481,11 @@
                 "dbpm": 2.6,
                 "bpm": 10.4
             },
-            "player_name": "Mike Scott",
-            "total_win_shares": 16.9,
+            "total_win_shares": 9.4,
             "max_win_shares": 3.2
         },
         {
+            "player_name": "Kim English",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -7566,11 +7567,11 @@
                 "dbpm": 1.3,
                 "bpm": 7.1
             },
-            "player_name": "Kim English",
             "total_win_shares": 0.2,
             "max_win_shares": 0.2
         },
         {
+            "player_name": "Justin Hamilton",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 32.0,
@@ -7652,11 +7653,11 @@
                 "dbpm": 2.1,
                 "bpm": 5.9
             },
-            "player_name": "Justin Hamilton",
-            "total_win_shares": 3.7,
+            "total_win_shares": 1.6,
             "max_win_shares": 2.1
         },
         {
+            "player_name": "Darius Miller",
             "ncaa_stats": {
                 "g": 40.0,
                 "gs": 11.0,
@@ -7738,11 +7739,11 @@
                 "dbpm": 3.1,
                 "bpm": 7.5
             },
-            "player_name": "Darius Miller",
-            "total_win_shares": 6.4,
+            "total_win_shares": 1.2,
             "max_win_shares": 3.0
         },
         {
+            "player_name": "Kevin Murphy",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 32.0,
@@ -7824,11 +7825,11 @@
                 "dbpm": -2.2,
                 "bpm": 0.6
             },
-            "player_name": "Kevin Murphy",
             "total_win_shares": -0.3,
             "max_win_shares": -0.3
         },
         {
+            "player_name": "Kyle O'Quinn",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -7910,11 +7911,11 @@
                 "dbpm": 1.8,
                 "bpm": 5.0
             },
-            "player_name": "Kyle O'Quinn",
-            "total_win_shares": 17.900000000000002,
+            "total_win_shares": 7.1,
             "max_win_shares": 4.8
         },
         {
+            "player_name": "Kris Joseph",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -7996,11 +7997,11 @@
                 "dbpm": 2.2,
                 "bpm": 6.6
             },
-            "player_name": "Kris Joseph",
             "total_win_shares": -0.1,
             "max_win_shares": -0.1
         },
         {
+            "player_name": "Darius Johnson-Odom",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 33.0,
@@ -8082,11 +8083,11 @@
                 "dbpm": 1.5,
                 "bpm": 6.8
             },
-            "player_name": "Darius Johnson-Odom",
             "total_win_shares": -0.30000000000000004,
             "max_win_shares": -0.1
         },
         {
+            "player_name": "Robbie Hummel",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -8168,11 +8169,11 @@
                 "dbpm": 1.6,
                 "bpm": 9.4
             },
-            "player_name": "Robbie Hummel",
             "total_win_shares": 1.9000000000000001,
             "max_win_shares": 1.1
         },
         {
+            "player_name": "Marcus Denmon",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -8254,11 +8255,11 @@
                 "dbpm": 1.3,
                 "bpm": 10.0
             },
-            "player_name": "Marcus Denmon",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Robert Sacre",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -8340,13 +8341,13 @@
                 "dbpm": 2.2,
                 "bpm": 4.6
             },
-            "player_name": "Robert Sacre",
             "total_win_shares": 2.3999999999999995,
             "max_win_shares": 1.4
         }
     ],
     "2013": [
         {
+            "player_name": "Anthony Bennett",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 31.0,
@@ -8428,11 +8429,11 @@
                 "dbpm": 2.5,
                 "bpm": 8.6
             },
-            "player_name": "Anthony Bennett",
             "total_win_shares": 0.5,
             "max_win_shares": 0.5
         },
         {
+            "player_name": "Victor Oladipo",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -8514,11 +8515,11 @@
                 "dbpm": 6.2,
                 "bpm": 15.1
             },
-            "player_name": "Victor Oladipo",
-            "total_win_shares": 24.999999999999996,
+            "total_win_shares": 13.7,
             "max_win_shares": 8.2
         },
         {
+            "player_name": "Otto Porter Jr.",
             "ncaa_stats": {
                 "g": 31.0,
                 "gs": 30.0,
@@ -8600,11 +8601,11 @@
                 "dbpm": 5.4,
                 "bpm": 13.7
             },
-            "player_name": "Otto Porter Jr.",
-            "total_win_shares": 36.00000000000001,
+            "total_win_shares": 17.700000000000003,
             "max_win_shares": 9.4
         },
         {
+            "player_name": "Cody Zeller",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -8686,11 +8687,11 @@
                 "dbpm": 3.8,
                 "bpm": 11.1
             },
-            "player_name": "Cody Zeller",
-            "total_win_shares": 32.099999999999994,
+            "total_win_shares": 18.299999999999997,
             "max_win_shares": 6.3
         },
         {
+            "player_name": "Alex Len",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 37.0,
@@ -8772,11 +8773,11 @@
                 "dbpm": 3.2,
                 "bpm": 6.8
             },
-            "player_name": "Alex Len",
-            "total_win_shares": 21.7,
+            "total_win_shares": 7.9,
             "max_win_shares": 4.5
         },
         {
+            "player_name": "Nerlens Noel",
             "ncaa_stats": {
                 "g": 24.0,
                 "gs": 24.0,
@@ -8858,11 +8859,11 @@
                 "dbpm": 7.8,
                 "bpm": 12.1
             },
-            "player_name": "Nerlens Noel",
-            "total_win_shares": 28.2,
+            "total_win_shares": 11.0,
             "max_win_shares": 5.2
         },
         {
+            "player_name": "Ben McLemore",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 36.0,
@@ -8944,11 +8945,11 @@
                 "dbpm": 3.4,
                 "bpm": 10.5
             },
-            "player_name": "Ben McLemore",
-            "total_win_shares": 9.0,
+            "total_win_shares": 3.9999999999999996,
             "max_win_shares": 3.3
         },
         {
+            "player_name": "Kentavious Caldwell-Pope",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 30.0,
@@ -9030,11 +9031,11 @@
                 "dbpm": 4.1,
                 "bpm": 12.5
             },
-            "player_name": "Kentavious Caldwell-Pope",
-            "total_win_shares": 34.4,
+            "total_win_shares": 14.399999999999999,
             "max_win_shares": 5.3
         },
         {
+            "player_name": "Trey Burke",
             "ncaa_stats": {
                 "g": 39.0,
                 "gs": 39.0,
@@ -9116,11 +9117,11 @@
                 "dbpm": 3.7,
                 "bpm": 13.1
             },
-            "player_name": "Trey Burke",
-            "total_win_shares": 12.900000000000002,
+            "total_win_shares": 5.9,
             "max_win_shares": 2.4
         },
         {
+            "player_name": "CJ McCollum",
             "ncaa_stats": {
                 "g": 12.0,
                 "gs": 11.0,
@@ -9202,11 +9203,11 @@
                 "dbpm": 0.3,
                 "bpm": 9.3
             },
-            "player_name": "CJ McCollum",
-            "total_win_shares": 40.2,
+            "total_win_shares": 15.6,
             "max_win_shares": 7.6
         },
         {
+            "player_name": "Michael Carter-Williams",
             "ncaa_stats": {
                 "g": 40.0,
                 "gs": 40.0,
@@ -9288,11 +9289,11 @@
                 "dbpm": 5.5,
                 "bpm": 9.4
             },
-            "player_name": "Michael Carter-Williams",
-            "total_win_shares": 6.6,
+            "total_win_shares": 3.5,
             "max_win_shares": 1.9
         },
         {
+            "player_name": "Steven Adams",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 32.0,
@@ -9374,11 +9375,11 @@
                 "dbpm": 4.2,
                 "bpm": 8.1
             },
-            "player_name": "Steven Adams",
-            "total_win_shares": 56.099999999999994,
+            "total_win_shares": 20.0,
             "max_win_shares": 9.7
         },
         {
+            "player_name": "Kelly Olynyk",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 27.0,
@@ -9460,11 +9461,11 @@
                 "dbpm": 3.6,
                 "bpm": 13.9
             },
-            "player_name": "Kelly Olynyk",
-            "total_win_shares": 35.3,
+            "total_win_shares": 14.7,
             "max_win_shares": 5.5
         },
         {
+            "player_name": "Shabazz Muhammad",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 30.0,
@@ -9546,11 +9547,11 @@
                 "dbpm": -1.1,
                 "bpm": 4.7
             },
-            "player_name": "Shabazz Muhammad",
-            "total_win_shares": 8.4,
+            "total_win_shares": 7.7,
             "max_win_shares": 2.7
         },
         {
+            "player_name": "Shane Larkin",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 35.0,
@@ -9632,11 +9633,11 @@
                 "dbpm": 3.8,
                 "bpm": 9.1
             },
-            "player_name": "Shane Larkin",
-            "total_win_shares": 4.4,
+            "total_win_shares": 3.0,
             "max_win_shares": 1.7
         },
         {
+            "player_name": "Tony Snell",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -9718,11 +9719,11 @@
                 "dbpm": 2.1,
                 "bpm": 6.2
             },
-            "player_name": "Tony Snell",
-            "total_win_shares": 18.400000000000002,
+            "total_win_shares": 7.800000000000001,
             "max_win_shares": 3.4
         },
         {
+            "player_name": "Gorgui Dieng",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 32.0,
@@ -9804,11 +9805,11 @@
                 "dbpm": 6.4,
                 "bpm": 11.5
             },
-            "player_name": "Gorgui Dieng",
-            "total_win_shares": 30.599999999999998,
+            "total_win_shares": 18.7,
             "max_win_shares": 5.9
         },
         {
+            "player_name": "Mason Plumlee",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -9890,11 +9891,11 @@
                 "dbpm": 3.6,
                 "bpm": 9.5
             },
-            "player_name": "Mason Plumlee",
-            "total_win_shares": 44.20000000000001,
+            "total_win_shares": 21.6,
             "max_win_shares": 6.1
         },
         {
+            "player_name": "Solomon Hill",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -9976,11 +9977,11 @@
                 "dbpm": 2.7,
                 "bpm": 8.3
             },
-            "player_name": "Solomon Hill",
-            "total_win_shares": 11.8,
+            "total_win_shares": 8.7,
             "max_win_shares": 3.5
         },
         {
+            "player_name": "Tim Hardaway Jr.",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 38.0,
@@ -10062,11 +10063,11 @@
                 "dbpm": 1.8,
                 "bpm": 5.5
             },
-            "player_name": "Tim Hardaway Jr.",
-            "total_win_shares": 25.700000000000003,
+            "total_win_shares": 10.600000000000001,
             "max_win_shares": 4.8
         },
         {
+            "player_name": "Reggie Bullock",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -10148,11 +10149,11 @@
                 "dbpm": 2.9,
                 "bpm": 11.1
             },
-            "player_name": "Reggie Bullock",
-            "total_win_shares": 18.1,
+            "total_win_shares": 2.5,
             "max_win_shares": 4.6
         },
         {
+            "player_name": "Andre Roberson",
             "ncaa_stats": {
                 "g": 31.0,
                 "gs": 30.0,
@@ -10234,11 +10235,11 @@
                 "dbpm": 4.8,
                 "bpm": 8.1
             },
-            "player_name": "Andre Roberson",
-            "total_win_shares": 12.6,
+            "total_win_shares": 10.5,
             "max_win_shares": 4.2
         },
         {
+            "player_name": "Archie Goodwin",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -10320,11 +10321,11 @@
                 "dbpm": 1.1,
                 "bpm": 2.1
             },
-            "player_name": "Archie Goodwin",
             "total_win_shares": 1.2,
             "max_win_shares": 0.7
         },
         {
+            "player_name": "Allen Crabbe",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -10406,11 +10407,11 @@
                 "dbpm": 2.4,
                 "bpm": 8.4
             },
-            "player_name": "Allen Crabbe",
-            "total_win_shares": 13.800000000000002,
+            "total_win_shares": 9.9,
             "max_win_shares": 4.3
         },
         {
+            "player_name": "Carrick Felix",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 34.0,
@@ -10492,11 +10493,11 @@
                 "dbpm": 2.3,
                 "bpm": 6.0
             },
-            "player_name": "Carrick Felix",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Isaiah Canaan",
             "ncaa_stats": {
                 "g": 31.0,
                 "gs": 30.0,
@@ -10578,11 +10579,11 @@
                 "dbpm": 0.0,
                 "bpm": 5.8
             },
-            "player_name": "Isaiah Canaan",
-            "total_win_shares": 4.199999999999999,
+            "total_win_shares": 3.5,
             "max_win_shares": 1.4
         },
         {
+            "player_name": "Glen Rice Jr.",
             "ncaa_stats": {
                 "g": 21.0,
                 "gs": 10.0,
@@ -10664,11 +10665,11 @@
                 "dbpm": 2.8,
                 "bpm": 8.0
             },
-            "player_name": "Glen Rice Jr.",
             "total_win_shares": -0.2,
             "max_win_shares": -0.1
         },
         {
+            "player_name": "Ray McCallum",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -10750,11 +10751,11 @@
                 "dbpm": 1.1,
                 "bpm": 7.3
             },
-            "player_name": "Ray McCallum",
             "total_win_shares": 2.0999999999999996,
             "max_win_shares": 1.4
         },
         {
+            "player_name": "Tony Mitchell",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 29.0,
@@ -10836,11 +10837,11 @@
                 "dbpm": 1.2,
                 "bpm": 2.2
             },
-            "player_name": "Tony Mitchell",
             "total_win_shares": 0.2,
             "max_win_shares": 0.2
         },
         {
+            "player_name": "Nate Wolters",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -10922,11 +10923,11 @@
                 "dbpm": 1.3,
                 "bpm": 9.6
             },
-            "player_name": "Nate Wolters",
-            "total_win_shares": 0.9,
+            "total_win_shares": 1.0,
             "max_win_shares": 1.2
         },
         {
+            "player_name": "Jeff Withey",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 36.0,
@@ -11008,11 +11009,11 @@
                 "dbpm": 6.6,
                 "bpm": 11.5
             },
-            "player_name": "Jeff Withey",
             "total_win_shares": 6.7,
             "max_win_shares": 2.3
         },
         {
+            "player_name": "Grant Jerrett",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 2.0,
@@ -11094,11 +11095,11 @@
                 "dbpm": 3.2,
                 "bpm": 6.6
             },
-            "player_name": "Grant Jerrett",
             "total_win_shares": -0.1,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Jamaal Franklin",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 32.0,
@@ -11180,11 +11181,11 @@
                 "dbpm": 4.3,
                 "bpm": 8.5
             },
-            "player_name": "Jamaal Franklin",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Pierre Jackson",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 35.0,
@@ -11266,11 +11267,11 @@
                 "dbpm": 2.0,
                 "bpm": 10.5
             },
-            "player_name": "Pierre Jackson",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Mike Muscala",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -11352,11 +11353,11 @@
                 "dbpm": 3.9,
                 "bpm": 12.5
             },
-            "player_name": "Mike Muscala",
-            "total_win_shares": 16.700000000000003,
+            "total_win_shares": 7.1,
             "max_win_shares": 3.4
         },
         {
+            "player_name": "Erick Green",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 32.0,
@@ -11438,11 +11439,11 @@
                 "dbpm": 1.3,
                 "bpm": 11.4
             },
-            "player_name": "Erick Green",
             "total_win_shares": 0.1,
             "max_win_shares": 0.1
         },
         {
+            "player_name": "Ryan Kelly",
             "ncaa_stats": {
                 "g": 23.0,
                 "gs": 23.0,
@@ -11524,11 +11525,11 @@
                 "dbpm": 4.0,
                 "bpm": 11.1
             },
-            "player_name": "Ryan Kelly",
             "total_win_shares": 3.1000000000000005,
             "max_win_shares": 2.2
         },
         {
+            "player_name": "Erik Murphy",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 34.0,
@@ -11610,11 +11611,11 @@
                 "dbpm": 4.3,
                 "bpm": 11.6
             },
-            "player_name": "Erik Murphy",
             "total_win_shares": -0.1,
             "max_win_shares": -0.1
         },
         {
+            "player_name": "James Ennis III",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 32.0,
@@ -11696,11 +11697,11 @@
                 "dbpm": 1.4,
                 "bpm": 7.1
             },
-            "player_name": "James Ennis III",
-            "total_win_shares": 16.1,
+            "total_win_shares": 5.9,
             "max_win_shares": 3.1
         },
         {
+            "player_name": "Romero Osby",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 31.0,
@@ -11782,11 +11783,11 @@
                 "dbpm": 2.1,
                 "bpm": 10.0
             },
-            "player_name": "Romero Osby",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Lorenzo Brown",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 32.0,
@@ -11868,11 +11869,11 @@
                 "dbpm": 2.0,
                 "bpm": 5.5
             },
-            "player_name": "Lorenzo Brown",
-            "total_win_shares": -0.1,
+            "total_win_shares": -0.2,
             "max_win_shares": 0.3
         },
         {
+            "player_name": "Colton Iverson",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -11954,11 +11955,11 @@
                 "dbpm": 1.5,
                 "bpm": 7.9
             },
-            "player_name": "Colton Iverson",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Arsalan Kazemi",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 27.0,
@@ -12040,11 +12041,11 @@
                 "dbpm": 5.4,
                 "bpm": 10.8
             },
-            "player_name": "Arsalan Kazemi",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Peyton Siva",
             "ncaa_stats": {
                 "g": 40.0,
                 "gs": 40.0,
@@ -12126,11 +12127,11 @@
                 "dbpm": 4.7,
                 "bpm": 7.3
             },
-            "player_name": "Peyton Siva",
             "total_win_shares": -0.2,
             "max_win_shares": -0.2
         },
         {
+            "player_name": "Alex Oriakhi",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -12212,11 +12213,11 @@
                 "dbpm": 2.7,
                 "bpm": 8.4
             },
-            "player_name": "Alex Oriakhi",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Deshaun Thomas",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -12298,13 +12299,13 @@
                 "dbpm": 1.1,
                 "bpm": 9.0
             },
-            "player_name": "Deshaun Thomas",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         }
     ],
     "2014": [
         {
+            "player_name": "Andrew Wiggins",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -12386,11 +12387,11 @@
                 "dbpm": 2.6,
                 "bpm": 8.3
             },
-            "player_name": "Andrew Wiggins",
-            "total_win_shares": 24.0,
+            "total_win_shares": 12.499999999999998,
             "max_win_shares": 5.1
         },
         {
+            "player_name": "Jabari Parker",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -12472,11 +12473,11 @@
                 "dbpm": 1.0,
                 "bpm": 7.6
             },
-            "player_name": "Jabari Parker",
-            "total_win_shares": 13.700000000000001,
+            "total_win_shares": 10.1,
             "max_win_shares": 4.0
         },
         {
+            "player_name": "Joel Embiid",
             "ncaa_stats": {
                 "g": 28.0,
                 "gs": 20.0,
@@ -12558,11 +12559,11 @@
                 "dbpm": 6.9,
                 "bpm": 11.9
             },
-            "player_name": "Joel Embiid",
-            "total_win_shares": 43.599999999999994,
+            "total_win_shares": 8.1,
             "max_win_shares": 12.0
         },
         {
+            "player_name": "Aaron Gordon",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 38.0,
@@ -12644,11 +12645,11 @@
                 "dbpm": 4.7,
                 "bpm": 8.4
             },
-            "player_name": "Aaron Gordon",
-            "total_win_shares": 28.9,
+            "total_win_shares": 13.000000000000002,
             "max_win_shares": 5.4
         },
         {
+            "player_name": "Marcus Smart",
             "ncaa_stats": {
                 "g": 31.0,
                 "gs": 31.0,
@@ -12730,11 +12731,11 @@
                 "dbpm": 5.5,
                 "bpm": 12.0
             },
-            "player_name": "Marcus Smart",
-            "total_win_shares": 29.6,
+            "total_win_shares": 10.9,
             "max_win_shares": 5.6
         },
         {
+            "player_name": "Julius Randle",
             "ncaa_stats": {
                 "g": 40.0,
                 "gs": 40.0,
@@ -12816,11 +12817,11 @@
                 "dbpm": 2.1,
                 "bpm": 7.5
             },
-            "player_name": "Julius Randle",
-            "total_win_shares": 31.3,
+            "total_win_shares": 11.6,
             "max_win_shares": 7.8
         },
         {
+            "player_name": "Nik Stauskas",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -12902,11 +12903,11 @@
                 "dbpm": 0.9,
                 "bpm": 9.3
             },
-            "player_name": "Nik Stauskas",
-            "total_win_shares": 3.9,
+            "total_win_shares": 2.6999999999999997,
             "max_win_shares": 1.4
         },
         {
+            "player_name": "Noah Vonleh",
             "ncaa_stats": {
                 "g": 30.0,
                 "gs": 29.0,
@@ -12988,11 +12989,11 @@
                 "dbpm": 3.7,
                 "bpm": 6.6
             },
-            "player_name": "Noah Vonleh",
-            "total_win_shares": 9.200000000000001,
+            "total_win_shares": 5.1,
             "max_win_shares": 3.2
         },
         {
+            "player_name": "Elfrid Payton",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 34.0,
@@ -13074,11 +13075,11 @@
                 "dbpm": 1.7,
                 "bpm": 6.8
             },
-            "player_name": "Elfrid Payton",
-            "total_win_shares": 15.7,
+            "total_win_shares": 11.7,
             "max_win_shares": 4.4
         },
         {
+            "player_name": "Doug McDermott",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -13160,11 +13161,11 @@
                 "dbpm": -0.5,
                 "bpm": 10.9
             },
-            "player_name": "Doug McDermott",
-            "total_win_shares": 19.3,
+            "total_win_shares": 7.7,
             "max_win_shares": 3.8
         },
         {
+            "player_name": "Zach LaVine",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 1.0,
@@ -13246,11 +13247,11 @@
                 "dbpm": 1.2,
                 "bpm": 2.9
             },
-            "player_name": "Zach LaVine",
-            "total_win_shares": 23.7,
+            "total_win_shares": 5.2,
             "max_win_shares": 5.9
         },
         {
+            "player_name": "T.J. Warren",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -13332,11 +13333,11 @@
                 "dbpm": 1.6,
                 "bpm": 10.8
             },
-            "player_name": "T.J. Warren",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Adreian Payne",
             "ncaa_stats": {
                 "g": 31.0,
                 "gs": 28.0,
@@ -13418,11 +13419,11 @@
                 "dbpm": 2.0,
                 "bpm": 7.5
             },
-            "player_name": "Adreian Payne",
             "total_win_shares": -0.6000000000000001,
             "max_win_shares": 0.2
         },
         {
+            "player_name": "James Young",
             "ncaa_stats": {
                 "g": 40.0,
                 "gs": 39.0,
@@ -13504,11 +13505,11 @@
                 "dbpm": 1.9,
                 "bpm": 6.1
             },
-            "player_name": "James Young",
             "total_win_shares": 0.7999999999999999,
             "max_win_shares": 0.3
         },
         {
+            "player_name": "Tyler Ennis",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -13590,11 +13591,11 @@
                 "dbpm": 3.9,
                 "bpm": 8.7
             },
-            "player_name": "Tyler Ennis",
             "total_win_shares": 1.3,
             "max_win_shares": 0.8
         },
         {
+            "player_name": "Gary Harris",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 34.0,
@@ -13676,11 +13677,11 @@
                 "dbpm": 3.7,
                 "bpm": 10.3
             },
-            "player_name": "Gary Harris",
-            "total_win_shares": 20.799999999999997,
+            "total_win_shares": 13.399999999999999,
             "max_win_shares": 5.5
         },
         {
+            "player_name": "Mitch McGary",
             "ncaa_stats": {
                 "g": 8.0,
                 "gs": 4.0,
@@ -13762,11 +13763,11 @@
                 "dbpm": 4.9,
                 "bpm": 8.6
             },
-            "player_name": "Mitch McGary",
             "total_win_shares": 1.3,
             "max_win_shares": 1.3
         },
         {
+            "player_name": "Jordan Adams",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -13848,11 +13849,11 @@
                 "dbpm": 4.1,
                 "bpm": 11.5
             },
-            "player_name": "Jordan Adams",
             "total_win_shares": 0.4,
             "max_win_shares": 0.4
         },
         {
+            "player_name": "Rodney Hood",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 33.0,
@@ -13934,11 +13935,11 @@
                 "dbpm": 0.9,
                 "bpm": 7.2
             },
-            "player_name": "Rodney Hood",
-            "total_win_shares": 17.500000000000004,
+            "total_win_shares": 13.5,
             "max_win_shares": 6.0
         },
         {
+            "player_name": "Shabazz Napier",
             "ncaa_stats": {
                 "g": 40.0,
                 "gs": 40.0,
@@ -14020,11 +14021,11 @@
                 "dbpm": 4.5,
                 "bpm": 12.0
             },
-            "player_name": "Shabazz Napier",
-            "total_win_shares": 8.1,
+            "total_win_shares": 4.4,
             "max_win_shares": 3.2
         },
         {
+            "player_name": "P.J. Hairston",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 14.0,
@@ -14106,11 +14107,11 @@
                 "dbpm": 2.3,
                 "bpm": 12.4
             },
-            "player_name": "P.J. Hairston",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "C.J. Wilcox",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 31.0,
@@ -14192,11 +14193,11 @@
                 "dbpm": 1.0,
                 "bpm": 8.4
             },
-            "player_name": "C.J. Wilcox",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Josh Huestis",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -14278,11 +14279,11 @@
                 "dbpm": 2.5,
                 "bpm": 5.3
             },
-            "player_name": "Josh Huestis",
             "total_win_shares": 0.7,
             "max_win_shares": 0.5
         },
         {
+            "player_name": "Kyle Anderson",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -14364,11 +14365,11 @@
                 "dbpm": 4.5,
                 "bpm": 10.9
             },
-            "player_name": "Kyle Anderson",
-            "total_win_shares": 27.0,
+            "total_win_shares": 12.7,
             "max_win_shares": 6.2
         },
         {
+            "player_name": "K.J. McDaniels",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 35.0,
@@ -14450,11 +14451,11 @@
                 "dbpm": 5.6,
                 "bpm": 12.9
             },
-            "player_name": "K.J. McDaniels",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Joe Harris",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -14536,11 +14537,11 @@
                 "dbpm": 4.1,
                 "bpm": 8.6
             },
-            "player_name": "Joe Harris",
-            "total_win_shares": 20.5,
+            "total_win_shares": 5.0,
             "max_win_shares": 5.5
         },
         {
+            "player_name": "Cleanthony Early",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -14622,11 +14623,11 @@
                 "dbpm": 2.6,
                 "bpm": 9.0
             },
-            "player_name": "Cleanthony Early",
             "total_win_shares": -0.6000000000000001,
             "max_win_shares": -0.2
         },
         {
+            "player_name": "Jarnell Stokes",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -14708,11 +14709,11 @@
                 "dbpm": 2.4,
                 "bpm": 9.5
             },
-            "player_name": "Jarnell Stokes",
             "total_win_shares": 0.7,
             "max_win_shares": 0.5
         },
         {
+            "player_name": "Johnny O'Bryant",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -14794,11 +14795,11 @@
                 "dbpm": 0.2,
                 "bpm": 1.3
             },
-            "player_name": "Johnny O'Bryant",
             "total_win_shares": 0.19999999999999998,
             "max_win_shares": 0.3
         },
         {
+            "player_name": "DeAndre Daniels",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 38.0,
@@ -14880,11 +14881,11 @@
                 "dbpm": 2.5,
                 "bpm": 5.6
             },
-            "player_name": "DeAndre Daniels",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Spencer Dinwiddie",
             "ncaa_stats": {
                 "g": 17.0,
                 "gs": 17.0,
@@ -14966,11 +14967,11 @@
                 "dbpm": 3.9,
                 "bpm": 10.1
             },
-            "player_name": "Spencer Dinwiddie",
-            "total_win_shares": 22.5,
+            "total_win_shares": 8.7,
             "max_win_shares": 5.7
         },
         {
+            "player_name": "Jerami Grant",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 20.0,
@@ -15052,11 +15053,11 @@
                 "dbpm": 2.4,
                 "bpm": 6.4
             },
-            "player_name": "Jerami Grant",
-            "total_win_shares": 28.1,
+            "total_win_shares": 10.9,
             "max_win_shares": 7.3
         },
         {
+            "player_name": "Glenn Robinson III",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -15138,11 +15139,11 @@
                 "dbpm": 1.2,
                 "bpm": 5.3
             },
-            "player_name": "Glenn Robinson III",
-            "total_win_shares": 7.8999999999999995,
+            "total_win_shares": 4.0,
             "max_win_shares": 2.9
         },
         {
+            "player_name": "Nick Johnson",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 38.0,
@@ -15224,11 +15225,11 @@
                 "dbpm": 4.9,
                 "bpm": 10.7
             },
-            "player_name": "Nick Johnson",
             "total_win_shares": -0.1,
             "max_win_shares": -0.1
         },
         {
+            "player_name": "Markel Brown",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -15310,11 +15311,11 @@
                 "dbpm": 2.7,
                 "bpm": 8.9
             },
-            "player_name": "Markel Brown",
             "total_win_shares": 1.1,
             "max_win_shares": 0.6
         },
         {
+            "player_name": "Dwight Powell",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -15396,11 +15397,11 @@
                 "dbpm": 3.0,
                 "bpm": 5.7
             },
-            "player_name": "Dwight Powell",
-            "total_win_shares": 38.0,
+            "total_win_shares": 14.9,
             "max_win_shares": 8.2
         },
         {
+            "player_name": "Jordan Clarkson",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -15482,11 +15483,11 @@
                 "dbpm": 0.5,
                 "bpm": 4.3
             },
-            "player_name": "Jordan Clarkson",
-            "total_win_shares": 21.6,
+            "total_win_shares": 8.7,
             "max_win_shares": 4.2
         },
         {
+            "player_name": "Russ Smith",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 36.0,
@@ -15568,11 +15569,11 @@
                 "dbpm": 4.3,
                 "bpm": 11.5
             },
-            "player_name": "Russ Smith",
             "total_win_shares": -0.2,
             "max_win_shares": -0.1
         },
         {
+            "player_name": "Lamar Patterson",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -15654,11 +15655,11 @@
                 "dbpm": 3.2,
                 "bpm": 11.4
             },
-            "player_name": "Lamar Patterson",
             "total_win_shares": 0.1,
             "max_win_shares": 0.2
         },
         {
+            "player_name": "Cameron Bairstow",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -15740,11 +15741,11 @@
                 "dbpm": 2.5,
                 "bpm": 9.7
             },
-            "player_name": "Cameron Bairstow",
             "total_win_shares": -0.1,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Alec Brown",
             "ncaa_stats": {
                 "g": 30.0,
                 "gs": 30.0,
@@ -15826,11 +15827,11 @@
                 "dbpm": 1.7,
                 "bpm": 4.7
             },
-            "player_name": "Alec Brown",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Semaj Christon",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -15912,11 +15913,11 @@
                 "dbpm": 1.5,
                 "bpm": 5.2
             },
-            "player_name": "Semaj Christon",
             "total_win_shares": 0.1,
             "max_win_shares": 0.1
         },
         {
+            "player_name": "Devyn Marble",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -15998,11 +15999,11 @@
                 "dbpm": 3.0,
                 "bpm": 9.0
             },
-            "player_name": "Devyn Marble",
             "total_win_shares": -0.2,
             "max_win_shares": -0.1
         },
         {
+            "player_name": "Jordan McRae",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -16084,11 +16085,11 @@
                 "dbpm": 2.5,
                 "bpm": 10.5
             },
-            "player_name": "Jordan McRae",
-            "total_win_shares": 1.8,
+            "total_win_shares": 0.6000000000000001,
             "max_win_shares": 0.7
         },
         {
+            "player_name": "Xavier Thames",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -16170,11 +16171,11 @@
                 "dbpm": 5.2,
                 "bpm": 12.4
             },
-            "player_name": "Xavier Thames",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Cory Jefferson",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 38.0,
@@ -16256,13 +16257,13 @@
                 "dbpm": 1.4,
                 "bpm": 6.3
             },
-            "player_name": "Cory Jefferson",
             "total_win_shares": 0.9,
             "max_win_shares": 0.8
         }
     ],
     "2015": [
         {
+            "player_name": "Karl-Anthony Towns",
             "ncaa_stats": {
                 "g": 39.0,
                 "gs": 39.0,
@@ -16344,11 +16345,11 @@
                 "dbpm": 7.6,
                 "bpm": 14.3
             },
-            "player_name": "Karl-Anthony Towns",
-            "total_win_shares": 66.2,
+            "total_win_shares": 45.4,
             "max_win_shares": 14.0
         },
         {
+            "player_name": "D'Angelo Russell",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 34.0,
@@ -16430,11 +16431,11 @@
                 "dbpm": 3.3,
                 "bpm": 11.9
             },
-            "player_name": "D'Angelo Russell",
-            "total_win_shares": 14.5,
+            "total_win_shares": 6.7,
             "max_win_shares": 5.0
         },
         {
+            "player_name": "Jahlil Okafor",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 38.0,
@@ -16516,11 +16517,11 @@
                 "dbpm": 2.7,
                 "bpm": 10.4
             },
-            "player_name": "Jahlil Okafor",
-            "total_win_shares": 7.1,
+            "total_win_shares": 5.2,
             "max_win_shares": 2.2
         },
         {
+            "player_name": "Willie Cauley-Stein",
             "ncaa_stats": {
                 "g": 39.0,
                 "gs": 38.0,
@@ -16602,11 +16603,11 @@
                 "dbpm": 7.1,
                 "bpm": 12.6
             },
-            "player_name": "Willie Cauley-Stein",
-            "total_win_shares": 23.2,
+            "total_win_shares": 17.3,
             "max_win_shares": 6.7
         },
         {
+            "player_name": "Stanley Johnson",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 37.0,
@@ -16688,11 +16689,11 @@
                 "dbpm": 4.4,
                 "bpm": 9.4
             },
-            "player_name": "Stanley Johnson",
-            "total_win_shares": 6.1,
+            "total_win_shares": 3.3,
             "max_win_shares": 1.8
         },
         {
+            "player_name": "Frank Kaminsky",
             "ncaa_stats": {
                 "g": 39.0,
                 "gs": 39.0,
@@ -16774,11 +16775,11 @@
                 "dbpm": 5.0,
                 "bpm": 16.2
             },
-            "player_name": "Frank Kaminsky",
-            "total_win_shares": 15.3,
+            "total_win_shares": 11.0,
             "max_win_shares": 3.6
         },
         {
+            "player_name": "Justise Winslow",
             "ncaa_stats": {
                 "g": 39.0,
                 "gs": 39.0,
@@ -16860,11 +16861,11 @@
                 "dbpm": 4.6,
                 "bpm": 10.0
             },
-            "player_name": "Justise Winslow",
-            "total_win_shares": 7.8999999999999995,
+            "total_win_shares": 7.8,
             "max_win_shares": 2.8
         },
         {
+            "player_name": "Myles Turner",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 7.0,
@@ -16946,11 +16947,11 @@
                 "dbpm": 6.0,
                 "bpm": 9.3
             },
-            "player_name": "Myles Turner",
-            "total_win_shares": 32.7,
+            "total_win_shares": 22.1,
             "max_win_shares": 8.0
         },
         {
+            "player_name": "Trey Lyles",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 21.0,
@@ -17032,11 +17033,11 @@
                 "dbpm": 4.1,
                 "bpm": 8.0
             },
-            "player_name": "Trey Lyles",
-            "total_win_shares": 14.499999999999998,
+            "total_win_shares": 8.2,
             "max_win_shares": 3.9
         },
         {
+            "player_name": "Devin Booker",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 0.0,
@@ -17118,11 +17119,11 @@
                 "dbpm": 3.3,
                 "bpm": 9.4
             },
-            "player_name": "Devin Booker",
-            "total_win_shares": 29.800000000000004,
+            "total_win_shares": 9.8,
             "max_win_shares": 7.6
         },
         {
+            "player_name": "Cameron Payne",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -17204,11 +17205,11 @@
                 "dbpm": 1.3,
                 "bpm": 9.9
             },
-            "player_name": "Cameron Payne",
-            "total_win_shares": 8.4,
+            "total_win_shares": 2.4,
             "max_win_shares": 3.6
         },
         {
+            "player_name": "Kelly Oubre Jr.",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 27.0,
@@ -17290,11 +17291,11 @@
                 "dbpm": 4.1,
                 "bpm": 8.8
             },
-            "player_name": "Kelly Oubre Jr.",
-            "total_win_shares": 17.6,
+            "total_win_shares": 8.3,
             "max_win_shares": 3.8
         },
         {
+            "player_name": "Terry Rozier",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 35.0,
@@ -17376,11 +17377,11 @@
                 "dbpm": 4.6,
                 "bpm": 9.4
             },
-            "player_name": "Terry Rozier",
-            "total_win_shares": 24.0,
+            "total_win_shares": 9.899999999999999,
             "max_win_shares": 5.9
         },
         {
+            "player_name": "Rashad Vaughn",
             "ncaa_stats": {
                 "g": 23.0,
                 "gs": 23.0,
@@ -17462,11 +17463,11 @@
                 "dbpm": 0.1,
                 "bpm": 4.5
             },
-            "player_name": "Rashad Vaughn",
             "total_win_shares": -0.6000000000000001,
             "max_win_shares": 0.2
         },
         {
+            "player_name": "Sam Dekker",
             "ncaa_stats": {
                 "g": 40.0,
                 "gs": 40.0,
@@ -17548,11 +17549,11 @@
                 "dbpm": 1.8,
                 "bpm": 10.4
             },
-            "player_name": "Sam Dekker",
             "total_win_shares": 5.3,
             "max_win_shares": 3.1
         },
         {
+            "player_name": "Jerian Grant",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 38.0,
@@ -17634,11 +17635,11 @@
                 "dbpm": 1.7,
                 "bpm": 9.0
             },
-            "player_name": "Jerian Grant",
             "total_win_shares": 8.299999999999999,
             "max_win_shares": 3.3
         },
         {
+            "player_name": "Delon Wright",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -17720,11 +17721,11 @@
                 "dbpm": 6.9,
                 "bpm": 15.5
             },
-            "player_name": "Delon Wright",
-            "total_win_shares": 22.8,
+            "total_win_shares": 10.5,
             "max_win_shares": 4.5
         },
         {
+            "player_name": "Justin Anderson",
             "ncaa_stats": {
                 "g": 26.0,
                 "gs": 22.0,
@@ -17806,11 +17807,11 @@
                 "dbpm": 4.8,
                 "bpm": 12.7
             },
-            "player_name": "Justin Anderson",
-            "total_win_shares": 4.900000000000001,
+            "total_win_shares": 4.6000000000000005,
             "max_win_shares": 1.9
         },
         {
+            "player_name": "Bobby Portis",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -17892,11 +17893,11 @@
                 "dbpm": 1.4,
                 "bpm": 8.9
             },
-            "player_name": "Bobby Portis",
-            "total_win_shares": 21.2,
+            "total_win_shares": 9.0,
             "max_win_shares": 5.5
         },
         {
+            "player_name": "Rondae Hollis-Jefferson",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 25.0,
@@ -17978,11 +17979,11 @@
                 "dbpm": 5.0,
                 "bpm": 9.4
             },
-            "player_name": "Rondae Hollis-Jefferson",
-            "total_win_shares": 12.8,
+            "total_win_shares": 9.1,
             "max_win_shares": 4.1
         },
         {
+            "player_name": "Tyus Jones",
             "ncaa_stats": {
                 "g": 39.0,
                 "gs": 39.0,
@@ -18064,11 +18065,11 @@
                 "dbpm": 3.3,
                 "bpm": 9.3
             },
-            "player_name": "Tyus Jones",
-            "total_win_shares": 19.299999999999997,
+            "total_win_shares": 8.4,
             "max_win_shares": 5.1
         },
         {
+            "player_name": "Jarell Martin",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 32.0,
@@ -18150,11 +18151,11 @@
                 "dbpm": 1.6,
                 "bpm": 4.7
             },
-            "player_name": "Jarell Martin",
             "total_win_shares": 3.2,
             "max_win_shares": 1.3
         },
         {
+            "player_name": "Larry Nance Jr.",
             "ncaa_stats": {
                 "g": 31.0,
                 "gs": 30.0,
@@ -18236,11 +18237,11 @@
                 "dbpm": 2.9,
                 "bpm": 7.0
             },
-            "player_name": "Larry Nance Jr.",
-            "total_win_shares": 24.4,
+            "total_win_shares": 16.4,
             "max_win_shares": 5.8
         },
         {
+            "player_name": "R.J. Hunter",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -18322,11 +18323,11 @@
                 "dbpm": 1.4,
                 "bpm": 7.1
             },
-            "player_name": "R.J. Hunter",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Chris McCullough",
             "ncaa_stats": {
                 "g": 16.0,
                 "gs": 16.0,
@@ -18408,11 +18409,11 @@
                 "dbpm": 5.3,
                 "bpm": 5.2
             },
-            "player_name": "Chris McCullough",
             "total_win_shares": 0.6000000000000001,
             "max_win_shares": 0.3
         },
         {
+            "player_name": "Kevon Looney",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -18494,11 +18495,11 @@
                 "dbpm": 2.3,
                 "bpm": 7.0
             },
-            "player_name": "Kevon Looney",
-            "total_win_shares": 20.5,
+            "total_win_shares": 10.3,
             "max_win_shares": 6.8
         },
         {
+            "player_name": "Montrezl Harrell",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -18580,11 +18581,11 @@
                 "dbpm": 3.6,
                 "bpm": 9.5
             },
-            "player_name": "Montrezl Harrell",
-            "total_win_shares": 40.8,
+            "total_win_shares": 19.2,
             "max_win_shares": 8.7
         },
         {
+            "player_name": "Jordan Mickey",
             "ncaa_stats": {
                 "g": 31.0,
                 "gs": 31.0,
@@ -18666,11 +18667,11 @@
                 "dbpm": 3.6,
                 "bpm": 4.8
             },
-            "player_name": "Jordan Mickey",
             "total_win_shares": 0.5,
             "max_win_shares": 0.3
         },
         {
+            "player_name": "Anthony Brown",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 36.0,
@@ -18752,11 +18753,11 @@
                 "dbpm": 1.6,
                 "bpm": 7.1
             },
-            "player_name": "Anthony Brown",
             "total_win_shares": -0.3,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Rakeem Christmas",
             "ncaa_stats": {
                 "g": 31.0,
                 "gs": 31.0,
@@ -18838,11 +18839,11 @@
                 "dbpm": 3.8,
                 "bpm": 8.1
             },
-            "player_name": "Rakeem Christmas",
             "total_win_shares": 0.5,
             "max_win_shares": 0.5
         },
         {
+            "player_name": "Richaun Holmes",
             "ncaa_stats": {
                 "g": 31.0,
                 "gs": 30.0,
@@ -18924,11 +18925,11 @@
                 "dbpm": 3.2,
                 "bpm": 8.7
             },
-            "player_name": "Richaun Holmes",
-            "total_win_shares": 26.599999999999998,
+            "total_win_shares": 12.399999999999999,
             "max_win_shares": 6.1
         },
         {
+            "player_name": "Darrun Hilliard",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -19010,11 +19011,11 @@
                 "dbpm": 4.4,
                 "bpm": 10.0
             },
-            "player_name": "Darrun Hilliard",
             "total_win_shares": 0.3,
             "max_win_shares": 0.5
         },
         {
+            "player_name": "Josh Richardson",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 32.0,
@@ -19096,11 +19097,11 @@
                 "dbpm": 2.7,
                 "bpm": 8.3
             },
-            "player_name": "Josh Richardson",
-            "total_win_shares": 23.7,
+            "total_win_shares": 15.700000000000001,
             "max_win_shares": 5.6
         },
         {
+            "player_name": "Pat Connaughton",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 38.0,
@@ -19182,11 +19183,11 @@
                 "dbpm": 1.5,
                 "bpm": 7.6
             },
-            "player_name": "Pat Connaughton",
-            "total_win_shares": 18.1,
+            "total_win_shares": 6.8,
             "max_win_shares": 4.4
         },
         {
+            "player_name": "Olivier Hanlan",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 31.0,
@@ -19268,11 +19269,11 @@
                 "dbpm": 0.3,
                 "bpm": 6.4
             },
-            "player_name": "Olivier Hanlan",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Joe Young",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 35.0,
@@ -19354,11 +19355,11 @@
                 "dbpm": 0.3,
                 "bpm": 6.7
             },
-            "player_name": "Joe Young",
             "total_win_shares": 0.3,
             "max_win_shares": 0.5
         },
         {
+            "player_name": "Andrew Harrison",
             "ncaa_stats": {
                 "g": 39.0,
                 "gs": 39.0,
@@ -19440,11 +19441,11 @@
                 "dbpm": 4.7,
                 "bpm": 8.4
             },
-            "player_name": "Andrew Harrison",
             "total_win_shares": 3.1999999999999997,
             "max_win_shares": 1.7
         },
         {
+            "player_name": "Marcus Thornton",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -19526,11 +19527,11 @@
                 "dbpm": -3.5,
                 "bpm": 1.3
             },
-            "player_name": "Marcus Thornton",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Norman Powell",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -19612,11 +19613,11 @@
                 "dbpm": 3.2,
                 "bpm": 6.2
             },
-            "player_name": "Norman Powell",
-            "total_win_shares": 19.5,
+            "total_win_shares": 7.4,
             "max_win_shares": 4.7
         },
         {
+            "player_name": "Dakari Johnson",
             "ncaa_stats": {
                 "g": 39.0,
                 "gs": 0.0,
@@ -19698,11 +19699,11 @@
                 "dbpm": 5.1,
                 "bpm": 8.2
             },
-            "player_name": "Dakari Johnson",
             "total_win_shares": 0.6,
             "max_win_shares": 0.6
         },
         {
+            "player_name": "Aaron White",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -19784,11 +19785,11 @@
                 "dbpm": 3.6,
                 "bpm": 12.2
             },
-            "player_name": "Aaron White",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Tyler Harvey",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 32.0,
@@ -19870,11 +19871,11 @@
                 "dbpm": -2.5,
                 "bpm": 4.4
             },
-            "player_name": "Tyler Harvey",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Sir'Dominic Pointer",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 32.0,
@@ -19956,11 +19957,11 @@
                 "dbpm": 5.5,
                 "bpm": 10.1
             },
-            "player_name": "Sir'Dominic Pointer",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Cady Lalanne",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 32.0,
@@ -20042,11 +20043,11 @@
                 "dbpm": 0.8,
                 "bpm": 2.4
             },
-            "player_name": "Cady Lalanne",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Branden Dawson",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 32.0,
@@ -20128,11 +20129,11 @@
                 "dbpm": 4.2,
                 "bpm": 8.6
             },
-            "player_name": "Branden Dawson",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "J.P. Tokoto",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 34.0,
@@ -20214,13 +20215,13 @@
                 "dbpm": 4.5,
                 "bpm": 7.2
             },
-            "player_name": "J.P. Tokoto",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         }
     ],
     "2016": [
         {
+            "player_name": "Ben Simmons",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 32.0,
@@ -20302,11 +20303,11 @@
                 "dbpm": 3.3,
                 "bpm": 10.3
             },
-            "player_name": "Ben Simmons",
-            "total_win_shares": 30.299999999999997,
+            "total_win_shares": 24.299999999999997,
             "max_win_shares": 9.2
         },
         {
+            "player_name": "Brandon Ingram",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 34.0,
@@ -20388,11 +20389,11 @@
                 "dbpm": 2.0,
                 "bpm": 8.0
             },
-            "player_name": "Brandon Ingram",
-            "total_win_shares": 18.799999999999997,
+            "total_win_shares": 9.6,
             "max_win_shares": 5.3
         },
         {
+            "player_name": "Jaylen Brown",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -20474,11 +20475,11 @@
                 "dbpm": 2.5,
                 "bpm": 3.6
             },
-            "player_name": "Jaylen Brown",
-            "total_win_shares": 24.5,
+            "total_win_shares": 13.9,
             "max_win_shares": 5.8
         },
         {
+            "player_name": "Kris Dunn",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 32.0,
@@ -20560,11 +20561,11 @@
                 "dbpm": 5.4,
                 "bpm": 10.1
             },
-            "player_name": "Kris Dunn",
             "total_win_shares": 3.9,
             "max_win_shares": 2.3
         },
         {
+            "player_name": "Buddy Hield",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -20646,11 +20647,11 @@
                 "dbpm": 2.2,
                 "bpm": 12.8
             },
-            "player_name": "Buddy Hield",
-            "total_win_shares": 17.099999999999998,
+            "total_win_shares": 13.0,
             "max_win_shares": 5.9
         },
         {
+            "player_name": "Jamal Murray",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -20732,11 +20733,11 @@
                 "dbpm": 1.4,
                 "bpm": 9.5
             },
-            "player_name": "Jamal Murray",
-            "total_win_shares": 20.799999999999997,
+            "total_win_shares": 16.2,
             "max_win_shares": 5.5
         },
         {
+            "player_name": "Marquese Chriss",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -20818,11 +20819,11 @@
                 "dbpm": 2.2,
                 "bpm": 4.9
             },
-            "player_name": "Marquese Chriss",
-            "total_win_shares": 6.499999999999999,
+            "total_win_shares": 5.699999999999999,
             "max_win_shares": 3.4
         },
         {
+            "player_name": "Jakob Poeltl",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -20904,11 +20905,11 @@
                 "dbpm": 2.8,
                 "bpm": 10.4
             },
-            "player_name": "Jakob Poeltl",
-            "total_win_shares": 28.9,
+            "total_win_shares": 16.299999999999997,
             "max_win_shares": 6.9
         },
         {
+            "player_name": "Domantas Sabonis",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 31.0,
@@ -20990,11 +20991,11 @@
                 "dbpm": 2.5,
                 "bpm": 8.2
             },
-            "player_name": "Domantas Sabonis",
-            "total_win_shares": 34.6,
+            "total_win_shares": 20.6,
             "max_win_shares": 7.6
         },
         {
+            "player_name": "Taurean Prince",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -21076,11 +21077,11 @@
                 "dbpm": 1.3,
                 "bpm": 6.6
             },
-            "player_name": "Taurean Prince",
-            "total_win_shares": 8.399999999999999,
+            "total_win_shares": 5.199999999999999,
             "max_win_shares": 2.2
         },
         {
+            "player_name": "Denzel Valentine",
             "ncaa_stats": {
                 "g": 31.0,
                 "gs": 30.0,
@@ -21162,11 +21163,11 @@
                 "dbpm": 4.3,
                 "bpm": 15.6
             },
-            "player_name": "Denzel Valentine",
-            "total_win_shares": 4.5,
+            "total_win_shares": 3.6,
             "max_win_shares": 2.5
         },
         {
+            "player_name": "Wade Baldwin",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 30.0,
@@ -21248,11 +21249,11 @@
                 "dbpm": 3.0,
                 "bpm": 7.1
             },
-            "player_name": "Wade Baldwin",
             "total_win_shares": -0.3,
             "max_win_shares": 0.3
         },
         {
+            "player_name": "Henry Ellenson",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -21334,11 +21335,11 @@
                 "dbpm": 1.1,
                 "bpm": 3.9
             },
-            "player_name": "Henry Ellenson",
-            "total_win_shares": 0.30000000000000004,
+            "total_win_shares": 0.20000000000000004,
             "max_win_shares": 0.4
         },
         {
+            "player_name": "Malik Beasley",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 33.0,
@@ -21420,11 +21421,11 @@
                 "dbpm": 1.0,
                 "bpm": 6.2
             },
-            "player_name": "Malik Beasley",
-            "total_win_shares": 10.4,
+            "total_win_shares": 6.2,
             "max_win_shares": 4.5
         },
         {
+            "player_name": "Caris LeVert",
             "ncaa_stats": {
                 "g": 15.0,
                 "gs": 14.0,
@@ -21506,11 +21507,11 @@
                 "dbpm": 2.9,
                 "bpm": 11.4
             },
-            "player_name": "Caris LeVert",
-            "total_win_shares": 11.899999999999999,
+            "total_win_shares": 7.3,
             "max_win_shares": 2.4
         },
         {
+            "player_name": "DeAndre' Bembry",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 35.0,
@@ -21592,11 +21593,11 @@
                 "dbpm": 3.4,
                 "bpm": 8.2
             },
-            "player_name": "DeAndre' Bembry",
-            "total_win_shares": 4.4,
+            "total_win_shares": 1.0,
             "max_win_shares": 2.2
         },
         {
+            "player_name": "Malachi Richardson",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -21678,11 +21679,11 @@
                 "dbpm": 2.1,
                 "bpm": 3.5
             },
-            "player_name": "Malachi Richardson",
             "total_win_shares": -0.1,
             "max_win_shares": 0.1
         },
         {
+            "player_name": "Brice Johnson",
             "ncaa_stats": {
                 "g": 40.0,
                 "gs": 39.0,
@@ -21764,11 +21765,11 @@
                 "dbpm": 4.2,
                 "bpm": 12.7
             },
-            "player_name": "Brice Johnson",
             "total_win_shares": 0.2,
             "max_win_shares": 0.2
         },
         {
+            "player_name": "Pascal Siakam",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -21850,11 +21851,11 @@
                 "dbpm": 2.7,
                 "bpm": 8.2
             },
-            "player_name": "Pascal Siakam",
-            "total_win_shares": 33.3,
+            "total_win_shares": 21.0,
             "max_win_shares": 9.3
         },
         {
+            "player_name": "Skal Labissière",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 18.0,
@@ -21936,11 +21937,11 @@
                 "dbpm": 4.0,
                 "bpm": 2.6
             },
-            "player_name": "Skal Labissière",
             "total_win_shares": 4.4,
             "max_win_shares": 1.4
         },
         {
+            "player_name": "Dejounte Murray",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -22022,11 +22023,11 @@
                 "dbpm": 1.8,
                 "bpm": 3.6
             },
-            "player_name": "Dejounte Murray",
-            "total_win_shares": 16.400000000000002,
+            "total_win_shares": 5.800000000000001,
             "max_win_shares": 7.3
         },
         {
+            "player_name": "Damian Jones",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -22108,11 +22109,11 @@
                 "dbpm": 3.0,
                 "bpm": 6.2
             },
-            "player_name": "Damian Jones",
-            "total_win_shares": 9.3,
+            "total_win_shares": 4.4,
             "max_win_shares": 3.3
         },
         {
+            "player_name": "Deyonta Davis",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 16.0,
@@ -22194,11 +22195,11 @@
                 "dbpm": 4.5,
                 "bpm": 7.8
             },
-            "player_name": "Deyonta Davis",
             "total_win_shares": 3.6,
             "max_win_shares": 2.7
         },
         {
+            "player_name": "Cheick Diallo",
             "ncaa_stats": {
                 "g": 27.0,
                 "gs": 1.0,
@@ -22280,11 +22281,11 @@
                 "dbpm": 5.4,
                 "bpm": 3.7
             },
-            "player_name": "Cheick Diallo",
-            "total_win_shares": 6.3999999999999995,
+            "total_win_shares": 6.3,
             "max_win_shares": 2.6
         },
         {
+            "player_name": "Tyler Ulis",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -22366,11 +22367,11 @@
                 "dbpm": 2.4,
                 "bpm": 10.3
             },
-            "player_name": "Tyler Ulis",
             "total_win_shares": 0.49999999999999994,
             "max_win_shares": 0.7
         },
         {
+            "player_name": "Malcolm Brogdon",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -22452,11 +22453,11 @@
                 "dbpm": 3.2,
                 "bpm": 11.3
             },
-            "player_name": "Malcolm Brogdon",
-            "total_win_shares": 24.2,
+            "total_win_shares": 17.3,
             "max_win_shares": 6.5
         },
         {
+            "player_name": "Chinanu Onuaku",
             "ncaa_stats": {
                 "g": 31.0,
                 "gs": 29.0,
@@ -22538,11 +22539,11 @@
                 "dbpm": 6.3,
                 "bpm": 10.5
             },
-            "player_name": "Chinanu Onuaku",
             "total_win_shares": 0.0,
             "max_win_shares": 0.1
         },
         {
+            "player_name": "Patrick McCaw",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 32.0,
@@ -22624,11 +22625,11 @@
                 "dbpm": 3.7,
                 "bpm": 7.6
             },
-            "player_name": "Patrick McCaw",
-            "total_win_shares": 4.299999999999999,
+            "total_win_shares": 4.199999999999999,
             "max_win_shares": 1.7
         },
         {
+            "player_name": "Diamond Stone",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 22.0,
@@ -22710,11 +22711,11 @@
                 "dbpm": 2.0,
                 "bpm": 5.8
             },
-            "player_name": "Diamond Stone",
             "total_win_shares": -0.1,
             "max_win_shares": -0.1
         },
         {
+            "player_name": "Stephen Zimmerman",
             "ncaa_stats": {
                 "g": 26.0,
                 "gs": 24.0,
@@ -22796,11 +22797,11 @@
                 "dbpm": 2.3,
                 "bpm": 1.4
             },
-            "player_name": "Stephen Zimmerman",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Isaiah Whitehead",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 33.0,
@@ -22882,11 +22883,11 @@
                 "dbpm": 2.9,
                 "bpm": 8.9
             },
-            "player_name": "Isaiah Whitehead",
             "total_win_shares": -0.9,
             "max_win_shares": -0.1
         },
         {
+            "player_name": "Demetrius Jackson",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -22968,11 +22969,11 @@
                 "dbpm": 0.8,
                 "bpm": 6.1
             },
-            "player_name": "Demetrius Jackson",
             "total_win_shares": 0.2,
             "max_win_shares": 0.2
         },
         {
+            "player_name": "A.J. Hammons",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 20.0,
@@ -23054,11 +23055,11 @@
                 "dbpm": 5.3,
                 "bpm": 11.9
             },
-            "player_name": "A.J. Hammons",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Jake Layman",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -23140,11 +23141,11 @@
                 "dbpm": 3.3,
                 "bpm": 8.2
             },
-            "player_name": "Jake Layman",
-            "total_win_shares": 3.8000000000000003,
+            "total_win_shares": 3.0,
             "max_win_shares": 3.1
         },
         {
+            "player_name": "Michael Gbinije",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -23226,11 +23227,11 @@
                 "dbpm": 3.1,
                 "bpm": 8.4
             },
-            "player_name": "Michael Gbinije",
             "total_win_shares": -0.1,
             "max_win_shares": -0.1
         },
         {
+            "player_name": "Georges Niang",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -23312,11 +23313,11 @@
                 "dbpm": 1.6,
                 "bpm": 8.7
             },
-            "player_name": "Georges Niang",
-            "total_win_shares": 8.2,
+            "total_win_shares": 2.8,
             "max_win_shares": 2.8
         },
         {
+            "player_name": "Ben Bentil",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 33.0,
@@ -23398,11 +23399,11 @@
                 "dbpm": 1.9,
                 "bpm": 8.2
             },
-            "player_name": "Ben Bentil",
             "total_win_shares": -0.1,
             "max_win_shares": -0.1
         },
         {
+            "player_name": "Joel Bolomboy",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -23484,11 +23485,11 @@
                 "dbpm": 0.6,
                 "bpm": 4.3
             },
-            "player_name": "Joel Bolomboy",
             "total_win_shares": 0.30000000000000004,
             "max_win_shares": 0.2
         },
         {
+            "player_name": "Kay Felder",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -23570,11 +23571,11 @@
                 "dbpm": 0.8,
                 "bpm": 8.3
             },
-            "player_name": "Kay Felder",
             "total_win_shares": -0.4,
             "max_win_shares": 0.1
         },
         {
+            "player_name": "Marcus Paige",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -23656,11 +23657,11 @@
                 "dbpm": 2.8,
                 "bpm": 8.0
             },
-            "player_name": "Marcus Paige",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Daniel Hamilton",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -23742,11 +23743,11 @@
                 "dbpm": 4.0,
                 "bpm": 8.0
             },
-            "player_name": "Daniel Hamilton",
             "total_win_shares": 0.0,
             "max_win_shares": 0.1
         },
         {
+            "player_name": "Abdel Nader",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -23828,11 +23829,11 @@
                 "dbpm": 1.6,
                 "bpm": 3.5
             },
-            "player_name": "Abdel Nader",
-            "total_win_shares": 2.8,
+            "total_win_shares": 2.1,
             "max_win_shares": 1.3
         },
         {
+            "player_name": "Isaiah Cousins",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -23914,11 +23915,11 @@
                 "dbpm": 2.8,
                 "bpm": 5.4
             },
-            "player_name": "Isaiah Cousins",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Tyrone Wallace",
             "ncaa_stats": {
                 "g": 28.0,
                 "gs": 25.0,
@@ -24000,13 +24001,13 @@
                 "dbpm": 3.0,
                 "bpm": 6.6
             },
-            "player_name": "Tyrone Wallace",
-            "total_win_shares": 0.09999999999999995,
+            "total_win_shares": 0.19999999999999996,
             "max_win_shares": 0.7
         }
     ],
     "2017": [
         {
+            "player_name": "Markelle Fultz",
             "ncaa_stats": {
                 "g": 25.0,
                 "gs": 25.0,
@@ -24088,11 +24089,11 @@
                 "dbpm": 1.7,
                 "bpm": 9.4
             },
-            "player_name": "Markelle Fultz",
-            "total_win_shares": 3.5,
+            "total_win_shares": 3.1,
             "max_win_shares": 2.7
         },
         {
+            "player_name": "Lonzo Ball",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -24174,11 +24175,11 @@
                 "dbpm": 3.9,
                 "bpm": 12.0
             },
-            "player_name": "Lonzo Ball",
-            "total_win_shares": 11.399999999999999,
+            "total_win_shares": 9.2,
             "max_win_shares": 3.2
         },
         {
+            "player_name": "Jayson Tatum",
             "ncaa_stats": {
                 "g": 29.0,
                 "gs": 27.0,
@@ -24260,11 +24261,11 @@
                 "dbpm": 3.2,
                 "bpm": 7.9
             },
-            "player_name": "Jayson Tatum",
-            "total_win_shares": 35.1,
+            "total_win_shares": 25.5,
             "max_win_shares": 9.6
         },
         {
+            "player_name": "Josh Jackson",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -24346,11 +24347,11 @@
                 "dbpm": 4.2,
                 "bpm": 9.9
             },
-            "player_name": "Josh Jackson",
             "total_win_shares": -1.7999999999999998,
             "max_win_shares": 0.5
         },
         {
+            "player_name": "De'Aaron Fox",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 34.0,
@@ -24432,11 +24433,11 @@
                 "dbpm": 3.9,
                 "bpm": 8.2
             },
-            "player_name": "De'Aaron Fox",
-            "total_win_shares": 15.7,
+            "total_win_shares": 13.2,
             "max_win_shares": 5.6
         },
         {
+            "player_name": "Jonathan Isaac",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 32.0,
@@ -24518,11 +24519,11 @@
                 "dbpm": 4.2,
                 "bpm": 10.0
             },
-            "player_name": "Jonathan Isaac",
             "total_win_shares": 6.7,
             "max_win_shares": 4.0
         },
         {
+            "player_name": "Lauri Markkanen",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -24604,11 +24605,11 @@
                 "dbpm": 1.5,
                 "bpm": 9.4
             },
-            "player_name": "Lauri Markkanen",
-            "total_win_shares": 16.6,
+            "total_win_shares": 11.6,
             "max_win_shares": 5.0
         },
         {
+            "player_name": "Dennis Smith Jr.",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 32.0,
@@ -24690,11 +24691,11 @@
                 "dbpm": 1.1,
                 "bpm": 6.5
             },
-            "player_name": "Dennis Smith Jr.",
-            "total_win_shares": -0.6,
+            "total_win_shares": -1.0,
             "max_win_shares": 0.6
         },
         {
+            "player_name": "Zach Collins",
             "ncaa_stats": {
                 "g": 39.0,
                 "gs": 0.0,
@@ -24776,11 +24777,11 @@
                 "dbpm": 6.0,
                 "bpm": 10.6
             },
-            "player_name": "Zach Collins",
-            "total_win_shares": 5.0,
+            "total_win_shares": 3.8,
             "max_win_shares": 2.9
         },
         {
+            "player_name": "Malik Monk",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 37.0,
@@ -24862,11 +24863,11 @@
                 "dbpm": 2.5,
                 "bpm": 9.0
             },
-            "player_name": "Malik Monk",
-            "total_win_shares": 5.6,
+            "total_win_shares": 2.0,
             "max_win_shares": 3.6
         },
         {
+            "player_name": "Luke Kennard",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 36.0,
@@ -24948,11 +24949,11 @@
                 "dbpm": 2.0,
                 "bpm": 10.3
             },
-            "player_name": "Luke Kennard",
-            "total_win_shares": 14.2,
+            "total_win_shares": 9.7,
             "max_win_shares": 4.5
         },
         {
+            "player_name": "Donovan Mitchell",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 33.0,
@@ -25034,11 +25035,11 @@
                 "dbpm": 5.5,
                 "bpm": 11.1
             },
-            "player_name": "Donovan Mitchell",
-            "total_win_shares": 29.0,
+            "total_win_shares": 21.8,
             "max_win_shares": 7.2
         },
         {
+            "player_name": "Bam Adebayo",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 38.0,
@@ -25120,11 +25121,11 @@
                 "dbpm": 3.6,
                 "bpm": 8.2
             },
-            "player_name": "Bam Adebayo",
-            "total_win_shares": 35.5,
+            "total_win_shares": 28.3,
             "max_win_shares": 8.8
         },
         {
+            "player_name": "Justin Jackson",
             "ncaa_stats": {
                 "g": 40.0,
                 "gs": 39.0,
@@ -25206,11 +25207,11 @@
                 "dbpm": 2.1,
                 "bpm": 9.8
             },
-            "player_name": "Justin Jackson",
             "total_win_shares": 5.3,
             "max_win_shares": 2.9
         },
         {
+            "player_name": "Justin Patton",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 34.0,
@@ -25292,11 +25293,11 @@
                 "dbpm": 4.2,
                 "bpm": 8.4
             },
-            "player_name": "Justin Patton",
             "total_win_shares": 0.4,
             "max_win_shares": 0.4
         },
         {
+            "player_name": "D.J. Wilson",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 36.0,
@@ -25378,11 +25379,11 @@
                 "dbpm": 2.5,
                 "bpm": 7.9
             },
-            "player_name": "D.J. Wilson",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "T.J. Leaf",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -25464,11 +25465,11 @@
                 "dbpm": 2.1,
                 "bpm": 8.6
             },
-            "player_name": "T.J. Leaf",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "John Collins",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -25550,11 +25551,11 @@
                 "dbpm": 0.7,
                 "bpm": 9.9
             },
-            "player_name": "John Collins",
-            "total_win_shares": 28.1,
+            "total_win_shares": 23.0,
             "max_win_shares": 6.7
         },
         {
+            "player_name": "Harry Giles",
             "ncaa_stats": {
                 "g": 26.0,
                 "gs": 6.0,
@@ -25636,11 +25637,11 @@
                 "dbpm": 2.9,
                 "bpm": 4.4
             },
-            "player_name": "Harry Giles",
             "total_win_shares": 3.1,
             "max_win_shares": 1.6
         },
         {
+            "player_name": "Jarrett Allen",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -25722,11 +25723,11 @@
                 "dbpm": 2.6,
                 "bpm": 5.2
             },
-            "player_name": "Jarrett Allen",
-            "total_win_shares": 34.9,
+            "total_win_shares": 26.4,
             "max_win_shares": 8.5
         },
         {
+            "player_name": "OG Anunoby",
             "ncaa_stats": {
                 "g": 16.0,
                 "gs": 10.0,
@@ -25808,11 +25809,11 @@
                 "dbpm": 3.5,
                 "bpm": 8.9
             },
-            "player_name": "OG Anunoby",
-            "total_win_shares": 17.5,
+            "total_win_shares": 13.799999999999999,
             "max_win_shares": 5.7
         },
         {
+            "player_name": "Tyler Lydon",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -25894,11 +25895,11 @@
                 "dbpm": 2.2,
                 "bpm": 7.0
             },
-            "player_name": "Tyler Lydon",
             "total_win_shares": 0.2,
             "max_win_shares": 0.2
         },
         {
+            "player_name": "Caleb Swanigan",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -25980,11 +25981,11 @@
                 "dbpm": 3.4,
                 "bpm": 9.4
             },
-            "player_name": "Caleb Swanigan",
             "total_win_shares": -0.2,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Kyle Kuzma",
             "ncaa_stats": {
                 "g": 29.0,
                 "gs": 29.0,
@@ -26066,11 +26067,11 @@
                 "dbpm": 0.7,
                 "bpm": 6.3
             },
-            "player_name": "Kyle Kuzma",
-            "total_win_shares": 14.2,
+            "total_win_shares": 12.2,
             "max_win_shares": 3.8
         },
         {
+            "player_name": "Tony Bradley",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 0.0,
@@ -26152,11 +26153,11 @@
                 "dbpm": 2.3,
                 "bpm": 7.9
             },
-            "player_name": "Tony Bradley",
-            "total_win_shares": 7.3999999999999995,
+            "total_win_shares": 6.1,
             "max_win_shares": 3.3
         },
         {
+            "player_name": "Derrick White",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 32.0,
@@ -26238,11 +26239,11 @@
                 "dbpm": 3.4,
                 "bpm": 12.4
             },
-            "player_name": "Derrick White",
-            "total_win_shares": 15.3,
+            "total_win_shares": 10.200000000000001,
             "max_win_shares": 5.1
         },
         {
+            "player_name": "Josh Hart",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 35.0,
@@ -26324,11 +26325,11 @@
                 "dbpm": 3.9,
                 "bpm": 12.0
             },
-            "player_name": "Josh Hart",
-            "total_win_shares": 15.700000000000001,
+            "total_win_shares": 11.3,
             "max_win_shares": 4.4
         },
         {
+            "player_name": "Frank Jackson",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 16.0,
@@ -26410,11 +26411,11 @@
                 "dbpm": 1.4,
                 "bpm": 5.1
             },
-            "player_name": "Frank Jackson",
-            "total_win_shares": 2.5,
+            "total_win_shares": 1.8,
             "max_win_shares": 1.2
         },
         {
+            "player_name": "Davon Reed",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -26496,11 +26497,11 @@
                 "dbpm": 3.2,
                 "bpm": 8.2
             },
-            "player_name": "Davon Reed",
-            "total_win_shares": 1.4000000000000001,
+            "total_win_shares": -0.19999999999999998,
             "max_win_shares": 1.6
         },
         {
+            "player_name": "Wes Iwundu",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -26582,11 +26583,11 @@
                 "dbpm": 2.6,
                 "bpm": 7.5
             },
-            "player_name": "Wes Iwundu",
-            "total_win_shares": 4.3999999999999995,
+            "total_win_shares": 4.3,
             "max_win_shares": 1.9
         },
         {
+            "player_name": "Frank Mason III",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -26668,11 +26669,11 @@
                 "dbpm": 2.7,
                 "bpm": 11.3
             },
-            "player_name": "Frank Mason III",
             "total_win_shares": 1.2000000000000002,
             "max_win_shares": 0.5
         },
         {
+            "player_name": "Ivan Rabb",
             "ncaa_stats": {
                 "g": 31.0,
                 "gs": 30.0,
@@ -26754,11 +26755,11 @@
                 "dbpm": 3.4,
                 "bpm": 6.4
             },
-            "player_name": "Ivan Rabb",
             "total_win_shares": 3.3,
             "max_win_shares": 2.1
         },
         {
+            "player_name": "Semi Ojeleye",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -26840,11 +26841,11 @@
                 "dbpm": 1.1,
                 "bpm": 9.3
             },
-            "player_name": "Semi Ojeleye",
-            "total_win_shares": 5.2,
+            "total_win_shares": 5.0,
             "max_win_shares": 1.9
         },
         {
+            "player_name": "Jordan Bell",
             "ncaa_stats": {
                 "g": 39.0,
                 "gs": 38.0,
@@ -26926,11 +26927,11 @@
                 "dbpm": 5.5,
                 "bpm": 10.8
             },
-            "player_name": "Jordan Bell",
             "total_win_shares": 4.9,
             "max_win_shares": 2.9
         },
         {
+            "player_name": "Jawun Evans",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 32.0,
@@ -27012,11 +27013,11 @@
                 "dbpm": 1.2,
                 "bpm": 9.2
             },
-            "player_name": "Jawun Evans",
             "total_win_shares": -0.4,
             "max_win_shares": -0.2
         },
         {
+            "player_name": "Dwayne Bacon",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -27098,11 +27099,11 @@
                 "dbpm": 1.0,
                 "bpm": 5.5
             },
-            "player_name": "Dwayne Bacon",
             "total_win_shares": 0.7999999999999998,
             "max_win_shares": 1.2
         },
         {
+            "player_name": "Tyler Dorsey",
             "ncaa_stats": {
                 "g": 39.0,
                 "gs": 39.0,
@@ -27184,11 +27185,11 @@
                 "dbpm": 1.6,
                 "bpm": 6.8
             },
-            "player_name": "Tyler Dorsey",
             "total_win_shares": 1.0,
             "max_win_shares": 0.6
         },
         {
+            "player_name": "Thomas Bryant",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -27270,11 +27271,11 @@
                 "dbpm": 2.4,
                 "bpm": 6.2
             },
-            "player_name": "Thomas Bryant",
-            "total_win_shares": 11.7,
+            "total_win_shares": 10.6,
             "max_win_shares": 5.6
         },
         {
+            "player_name": "Damyean Dotson",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 32.0,
@@ -27356,11 +27357,11 @@
                 "dbpm": 1.3,
                 "bpm": 9.4
             },
-            "player_name": "Damyean Dotson",
             "total_win_shares": 3.0,
             "max_win_shares": 1.5
         },
         {
+            "player_name": "Dillon Brooks",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 27.0,
@@ -27442,11 +27443,11 @@
                 "dbpm": 2.9,
                 "bpm": 9.1
             },
-            "player_name": "Dillon Brooks",
-            "total_win_shares": 5.4,
+            "total_win_shares": 3.8,
             "max_win_shares": 1.6
         },
         {
+            "player_name": "Sterling Brown",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 34.0,
@@ -27528,11 +27529,11 @@
                 "dbpm": 4.0,
                 "bpm": 8.9
             },
-            "player_name": "Sterling Brown",
-            "total_win_shares": 6.5,
+            "total_win_shares": 5.7,
             "max_win_shares": 2.1
         },
         {
+            "player_name": "Ike Anigbogu",
             "ncaa_stats": {
                 "g": 29.0,
                 "gs": 0.0,
@@ -27614,11 +27615,11 @@
                 "dbpm": 2.4,
                 "bpm": 0.9
             },
-            "player_name": "Ike Anigbogu",
             "total_win_shares": 0.0,
             "max_win_shares": 0.1
         },
         {
+            "player_name": "Sindarius Thornwell",
             "ncaa_stats": {
                 "g": 31.0,
                 "gs": 31.0,
@@ -27700,11 +27701,11 @@
                 "dbpm": 6.2,
                 "bpm": 17.1
             },
-            "player_name": "Sindarius Thornwell",
             "total_win_shares": 1.1,
             "max_win_shares": 1.0
         },
         {
+            "player_name": "Monte Morris",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -27786,11 +27787,11 @@
                 "dbpm": 3.0,
                 "bpm": 10.5
             },
-            "player_name": "Monte Morris",
-            "total_win_shares": 18.5,
+            "total_win_shares": 13.1,
             "max_win_shares": 6.2
         },
         {
+            "player_name": "Edmond Sumner",
             "ncaa_stats": {
                 "g": 21.0,
                 "gs": 20.0,
@@ -27872,11 +27873,11 @@
                 "dbpm": 3.7,
                 "bpm": 8.8
             },
-            "player_name": "Edmond Sumner",
             "total_win_shares": 1.9,
             "max_win_shares": 1.4
         },
         {
+            "player_name": "Kadeem Allen",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 33.0,
@@ -27958,11 +27959,11 @@
                 "dbpm": 5.2,
                 "bpm": 7.4
             },
-            "player_name": "Kadeem Allen",
             "total_win_shares": 1.0,
             "max_win_shares": 1.0
         },
         {
+            "player_name": "Alec Peters",
             "ncaa_stats": {
                 "g": 29.0,
                 "gs": 29.0,
@@ -28044,11 +28045,11 @@
                 "dbpm": 0.4,
                 "bpm": 7.9
             },
-            "player_name": "Alec Peters",
             "total_win_shares": 0.3,
             "max_win_shares": 0.3
         },
         {
+            "player_name": "Nigel Williams-Goss",
             "ncaa_stats": {
                 "g": 38.0,
                 "gs": 38.0,
@@ -28130,11 +28131,11 @@
                 "dbpm": 5.1,
                 "bpm": 10.8
             },
-            "player_name": "Nigel Williams-Goss",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Jabari Bird",
             "ncaa_stats": {
                 "g": 27.0,
                 "gs": 25.0,
@@ -28216,11 +28217,11 @@
                 "dbpm": 2.4,
                 "bpm": 6.2
             },
-            "player_name": "Jabari Bird",
             "total_win_shares": 0.2,
             "max_win_shares": 0.2
         },
         {
+            "player_name": "Jaron Blossomgame",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -28302,13 +28303,13 @@
                 "dbpm": 1.0,
                 "bpm": 6.2
             },
-            "player_name": "Jaron Blossomgame",
             "total_win_shares": 0.3,
             "max_win_shares": 0.3
         }
     ],
     "2018": [
         {
+            "player_name": "Deandre Ayton",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -28390,11 +28391,11 @@
                 "dbpm": 2.4,
                 "bpm": 11.0
             },
-            "player_name": "Deandre Ayton",
             "total_win_shares": 24.6,
             "max_win_shares": 8.4
         },
         {
+            "player_name": "Marvin Bagley III",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 32.0,
@@ -28476,11 +28477,11 @@
                 "dbpm": 2.0,
                 "bpm": 10.8
             },
-            "player_name": "Marvin Bagley III",
             "total_win_shares": 7.4,
             "max_win_shares": 3.6
         },
         {
+            "player_name": "Jaren Jackson Jr.",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 34.0,
@@ -28562,11 +28563,11 @@
                 "dbpm": 7.3,
                 "bpm": 11.7
             },
-            "player_name": "Jaren Jackson Jr.",
             "total_win_shares": 12.9,
             "max_win_shares": 5.4
         },
         {
+            "player_name": "Trae Young",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 32.0,
@@ -28648,11 +28649,11 @@
                 "dbpm": 1.3,
                 "bpm": 11.1
             },
-            "player_name": "Trae Young",
             "total_win_shares": 26.4,
             "max_win_shares": 10.0
         },
         {
+            "player_name": "Mo Bamba",
             "ncaa_stats": {
                 "g": 30.0,
                 "gs": 29.0,
@@ -28734,11 +28735,11 @@
                 "dbpm": 5.9,
                 "bpm": 10.9
             },
-            "player_name": "Mo Bamba",
             "total_win_shares": 10.5,
             "max_win_shares": 4.5
         },
         {
+            "player_name": "Wendell Carter Jr.",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -28820,11 +28821,11 @@
                 "dbpm": 5.1,
                 "bpm": 11.4
             },
-            "player_name": "Wendell Carter Jr.",
             "total_win_shares": 13.6,
             "max_win_shares": 5.0
         },
         {
+            "player_name": "Collin Sexton",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 32.0,
@@ -28906,11 +28907,11 @@
                 "dbpm": 1.1,
                 "bpm": 6.9
             },
-            "player_name": "Collin Sexton",
             "total_win_shares": 5.300000000000001,
             "max_win_shares": 3.5
         },
         {
+            "player_name": "Kevin Knox",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -28992,11 +28993,11 @@
                 "dbpm": 1.8,
                 "bpm": 5.1
             },
-            "player_name": "Kevin Knox",
             "total_win_shares": -0.3000000000000001,
             "max_win_shares": 0.6
         },
         {
+            "player_name": "Mikal Bridges",
             "ncaa_stats": {
                 "g": 40.0,
                 "gs": 40.0,
@@ -29078,11 +29079,11 @@
                 "dbpm": 4.1,
                 "bpm": 12.9
             },
-            "player_name": "Mikal Bridges",
             "total_win_shares": 24.6,
             "max_win_shares": 8.9
         },
         {
+            "player_name": "Shai Gilgeous-Alexander",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 24.0,
@@ -29164,11 +29165,11 @@
                 "dbpm": 3.7,
                 "bpm": 9.0
             },
-            "player_name": "Shai Gilgeous-Alexander",
             "total_win_shares": 17.5,
             "max_win_shares": 6.1
         },
         {
+            "player_name": "Miles Bridges",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 33.0,
@@ -29250,11 +29251,11 @@
                 "dbpm": 2.5,
                 "bpm": 8.7
             },
-            "player_name": "Miles Bridges",
             "total_win_shares": 15.899999999999999,
             "max_win_shares": 7.2
         },
         {
+            "player_name": "Jerome Robinson",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -29336,11 +29337,11 @@
                 "dbpm": 0.1,
                 "bpm": 5.5
             },
-            "player_name": "Jerome Robinson",
             "total_win_shares": -0.09999999999999998,
             "max_win_shares": 0.2
         },
         {
+            "player_name": "Michael Porter Jr.",
             "ncaa_stats": {
                 "g": 3.0,
                 "gs": 1.0,
@@ -29422,11 +29423,11 @@
                 "dbpm": 4.1,
                 "bpm": 8.6
             },
-            "player_name": "Michael Porter Jr.",
             "total_win_shares": 9.600000000000001,
             "max_win_shares": 6.9
         },
         {
+            "player_name": "Troy Brown Jr.",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -29508,11 +29509,11 @@
                 "dbpm": 2.3,
                 "bpm": 3.7
             },
-            "player_name": "Troy Brown Jr.",
             "total_win_shares": 4.9,
             "max_win_shares": 2.4
         },
         {
+            "player_name": "Zhaire Smith",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 21.0,
@@ -29594,11 +29595,11 @@
                 "dbpm": 4.7,
                 "bpm": 10.8
             },
-            "player_name": "Zhaire Smith",
             "total_win_shares": 0.0,
             "max_win_shares": 0.1
         },
         {
+            "player_name": "Donte DiVincenzo",
             "ncaa_stats": {
                 "g": 40.0,
                 "gs": 10.0,
@@ -29680,11 +29681,11 @@
                 "dbpm": 2.9,
                 "bpm": 9.0
             },
-            "player_name": "Donte DiVincenzo",
             "total_win_shares": 9.2,
             "max_win_shares": 4.3
         },
         {
+            "player_name": "Lonnie Walker IV",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 18.0,
@@ -29766,11 +29767,11 @@
                 "dbpm": 2.3,
                 "bpm": 5.2
             },
-            "player_name": "Lonnie Walker IV",
             "total_win_shares": 1.9,
             "max_win_shares": 1.2
         },
         {
+            "player_name": "Kevin Huerter",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 32.0,
@@ -29852,11 +29853,11 @@
                 "dbpm": 2.1,
                 "bpm": 7.8
             },
-            "player_name": "Kevin Huerter",
             "total_win_shares": 9.5,
             "max_win_shares": 3.6
         },
         {
+            "player_name": "Josh Okogie",
             "ncaa_stats": {
                 "g": 24.0,
                 "gs": 24.0,
@@ -29938,11 +29939,11 @@
                 "dbpm": 2.2,
                 "bpm": 8.1
             },
-            "player_name": "Josh Okogie",
             "total_win_shares": 5.4,
             "max_win_shares": 2.2
         },
         {
+            "player_name": "Grayson Allen",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -30024,11 +30025,11 @@
                 "dbpm": 3.4,
                 "bpm": 8.4
             },
-            "player_name": "Grayson Allen",
             "total_win_shares": 8.100000000000001,
             "max_win_shares": 4.2
         },
         {
+            "player_name": "Chandler Hutchison",
             "ncaa_stats": {
                 "g": 31.0,
                 "gs": 31.0,
@@ -30110,11 +30111,11 @@
                 "dbpm": 3.8,
                 "bpm": 8.9
             },
-            "player_name": "Chandler Hutchison",
             "total_win_shares": 1.1999999999999997,
             "max_win_shares": 0.7
         },
         {
+            "player_name": "Aaron Holiday",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -30196,11 +30197,11 @@
                 "dbpm": 0.6,
                 "bpm": 5.9
             },
-            "player_name": "Aaron Holiday",
             "total_win_shares": 4.7,
             "max_win_shares": 2.1
         },
         {
+            "player_name": "Moritz Wagner",
             "ncaa_stats": {
                 "g": 39.0,
                 "gs": 39.0,
@@ -30282,11 +30283,11 @@
                 "dbpm": 3.8,
                 "bpm": 9.2
             },
-            "player_name": "Moritz Wagner",
             "total_win_shares": 5.8999999999999995,
             "max_win_shares": 2.8
         },
         {
+            "player_name": "Landry Shamet",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 32.0,
@@ -30368,11 +30369,11 @@
                 "dbpm": 1.3,
                 "bpm": 8.6
             },
-            "player_name": "Landry Shamet",
             "total_win_shares": 10.6,
             "max_win_shares": 3.6
         },
         {
+            "player_name": "Robert Williams",
             "ncaa_stats": {
                 "g": 30.0,
                 "gs": 23.0,
@@ -30454,11 +30455,11 @@
                 "dbpm": 6.2,
                 "bpm": 10.6
             },
-            "player_name": "Robert Williams",
             "total_win_shares": 18.4,
             "max_win_shares": 9.9
         },
         {
+            "player_name": "Jacob Evans",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 36.0,
@@ -30540,11 +30541,11 @@
                 "dbpm": 5.2,
                 "bpm": 9.9
             },
-            "player_name": "Jacob Evans",
             "total_win_shares": -0.6,
             "max_win_shares": -0.1
         },
         {
+            "player_name": "Omari Spellman",
             "ncaa_stats": {
                 "g": 40.0,
                 "gs": 39.0,
@@ -30626,11 +30627,11 @@
                 "dbpm": 2.8,
                 "bpm": 7.5
             },
-            "player_name": "Omari Spellman",
             "total_win_shares": 2.4,
             "max_win_shares": 1.2
         },
         {
+            "player_name": "Jevon Carter",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -30712,11 +30713,11 @@
                 "dbpm": 5.3,
                 "bpm": 12.0
             },
-            "player_name": "Jevon Carter",
             "total_win_shares": 4.6000000000000005,
             "max_win_shares": 1.8
         },
         {
+            "player_name": "Jalen Brunson",
             "ncaa_stats": {
                 "g": 40.0,
                 "gs": 40.0,
@@ -30798,11 +30799,11 @@
                 "dbpm": 2.2,
                 "bpm": 10.2
             },
-            "player_name": "Jalen Brunson",
             "total_win_shares": 17.3,
             "max_win_shares": 7.5
         },
         {
+            "player_name": "Devonte' Graham",
             "ncaa_stats": {
                 "g": 39.0,
                 "gs": 39.0,
@@ -30884,11 +30885,11 @@
                 "dbpm": 2.0,
                 "bpm": 8.6
             },
-            "player_name": "Devonte' Graham",
             "total_win_shares": 10.1,
             "max_win_shares": 3.4
         },
         {
+            "player_name": "Melvin Frazier",
             "ncaa_stats": {
                 "g": 30.0,
                 "gs": 30.0,
@@ -30970,11 +30971,11 @@
                 "dbpm": 2.8,
                 "bpm": 6.9
             },
-            "player_name": "Melvin Frazier",
             "total_win_shares": -0.30000000000000004,
             "max_win_shares": 0.2
         },
         {
+            "player_name": "Gary Trent Jr.",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -31056,11 +31057,11 @@
                 "dbpm": 2.6,
                 "bpm": 7.0
             },
-            "player_name": "Gary Trent Jr.",
             "total_win_shares": 9.6,
             "max_win_shares": 5.6
         },
         {
+            "player_name": "Khyri Thomas",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -31142,11 +31143,11 @@
                 "dbpm": 3.3,
                 "bpm": 8.6
             },
-            "player_name": "Khyri Thomas",
             "total_win_shares": 0.5,
             "max_win_shares": 0.5
         },
         {
+            "player_name": "Jarred Vanderbilt",
             "ncaa_stats": {
                 "g": 14.0,
                 "gs": 0.0,
@@ -31228,11 +31229,11 @@
                 "dbpm": 2.9,
                 "bpm": 6.4
             },
-            "player_name": "Jarred Vanderbilt",
             "total_win_shares": 9.2,
             "max_win_shares": 6.0
         },
         {
+            "player_name": "Bruce Brown",
             "ncaa_stats": {
                 "g": 19.0,
                 "gs": 19.0,
@@ -31314,11 +31315,11 @@
                 "dbpm": 3.6,
                 "bpm": 5.1
             },
-            "player_name": "Bruce Brown",
             "total_win_shares": 12.8,
             "max_win_shares": 4.8
         },
         {
+            "player_name": "Justin Jackson",
             "ncaa_stats": {
                 "g": 11.0,
                 "gs": 10.0,
@@ -31400,11 +31401,11 @@
                 "dbpm": 1.7,
                 "bpm": 1.9
             },
-            "player_name": "Justin Jackson",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Hamidou Diallo",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -31486,11 +31487,11 @@
                 "dbpm": 2.3,
                 "bpm": 2.9
             },
-            "player_name": "Hamidou Diallo",
             "total_win_shares": 4.9,
             "max_win_shares": 2.1
         },
         {
+            "player_name": "De'Anthony Melton",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 25.0,
@@ -31572,11 +31573,11 @@
                 "dbpm": 4.6,
                 "bpm": 7.2
             },
-            "player_name": "De'Anthony Melton",
             "total_win_shares": 7.6000000000000005,
             "max_win_shares": 3.7
         },
         {
+            "player_name": "Svi Mykhailiuk",
             "ncaa_stats": {
                 "g": 39.0,
                 "gs": 39.0,
@@ -31658,11 +31659,11 @@
                 "dbpm": 2.0,
                 "bpm": 6.6
             },
-            "player_name": "Svi Mykhailiuk",
             "total_win_shares": 2.6,
             "max_win_shares": 1.6
         },
         {
+            "player_name": "Keita Bates-Diop",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -31744,11 +31745,11 @@
                 "dbpm": 3.3,
                 "bpm": 11.1
             },
-            "player_name": "Keita Bates-Diop",
             "total_win_shares": 3.4000000000000004,
             "max_win_shares": 1.6
         },
         {
+            "player_name": "Chimezie Metu",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 33.0,
@@ -31830,11 +31831,11 @@
                 "dbpm": 2.5,
                 "bpm": 5.6
             },
-            "player_name": "Chimezie Metu",
             "total_win_shares": 2.1,
             "max_win_shares": 1.5
         },
         {
+            "player_name": "Alize Johnson",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -31916,11 +31917,11 @@
                 "dbpm": 0.3,
                 "bpm": 5.9
             },
-            "player_name": "Alize Johnson",
             "total_win_shares": 1.3,
             "max_win_shares": 0.9
         },
         {
+            "player_name": "Tony Carr",
             "ncaa_stats": {
                 "g": 37.0,
                 "gs": 37.0,
@@ -32002,11 +32003,11 @@
                 "dbpm": 1.2,
                 "bpm": 8.2
             },
-            "player_name": "Tony Carr",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Vince Edwards",
             "ncaa_stats": {
                 "g": 35.0,
                 "gs": 35.0,
@@ -32088,11 +32089,11 @@
                 "dbpm": 2.1,
                 "bpm": 8.1
             },
-            "player_name": "Vince Edwards",
             "total_win_shares": 0.0,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Devon Hall",
             "ncaa_stats": {
                 "g": 34.0,
                 "gs": 34.0,
@@ -32174,11 +32175,11 @@
                 "dbpm": 4.6,
                 "bpm": 10.1
             },
-            "player_name": "Devon Hall",
             "total_win_shares": -0.2,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Shake Milton",
             "ncaa_stats": {
                 "g": 22.0,
                 "gs": 22.0,
@@ -32260,11 +32261,11 @@
                 "dbpm": 2.0,
                 "bpm": 8.7
             },
-            "player_name": "Shake Milton",
             "total_win_shares": 6.8999999999999995,
             "max_win_shares": 2.8
         },
         {
+            "player_name": "Ray Spalding",
             "ncaa_stats": {
                 "g": 36.0,
                 "gs": 34.0,
@@ -32346,11 +32347,11 @@
                 "dbpm": 4.1,
                 "bpm": 8.2
             },
-            "player_name": "Ray Spalding",
             "total_win_shares": 0.1,
             "max_win_shares": 0.2
         },
         {
+            "player_name": "Kevin Hervey",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 25.0,
@@ -32432,11 +32433,11 @@
                 "dbpm": 0.4,
                 "bpm": 5.5
             },
-            "player_name": "Kevin Hervey",
             "total_win_shares": -0.1,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Thomas Welsh",
             "ncaa_stats": {
                 "g": 33.0,
                 "gs": 33.0,
@@ -32518,11 +32519,11 @@
                 "dbpm": 1.3,
                 "bpm": 5.8
             },
-            "player_name": "Thomas Welsh",
             "total_win_shares": 0.1,
             "max_win_shares": 0.1
         },
         {
+            "player_name": "George King",
             "ncaa_stats": {
                 "g": 32.0,
                 "gs": 31.0,
@@ -32604,11 +32605,11 @@
                 "dbpm": 1.6,
                 "bpm": 4.7
             },
-            "player_name": "George King",
             "total_win_shares": -0.1,
             "max_win_shares": 0.0
         },
         {
+            "player_name": "Kostas Antetokounmpo",
             "ncaa_stats": {
                 "g": 29.0,
                 "gs": 6.0,
@@ -32690,7 +32691,6 @@
                 "dbpm": 1.2,
                 "bpm": -2.1
             },
-            "player_name": "Kostas Antetokounmpo",
             "total_win_shares": -0.2,
             "max_win_shares": 0.1
         }

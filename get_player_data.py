@@ -7,7 +7,10 @@ def main():
     parser = argparse.ArgumentParser(description="Get total win shares for all NBA players for every draft class between start and end year")
     parser.add_argument('--start_year', type=int, help='First draft class')
     parser.add_argument('--end_year', type=int, help='Last draft class')
-    parser.add_argument('--seasons', type=int, help='Number of seasons to total win shares for each player')
+    parser.add_argument('--seasons_total', type=int, help='Number of seasons to get total win shares for each player')
+    parser.add_argument('--seasons_max', type=int, help='Number of seasons to get max win shares for each player')
+    parser.add_argument('--total_win_shares', action='store_true')
+    parser.add_argument('--max_win_shares', action='store_true')
     parser.add_argument('--ncaa_only', help='Only retrieve win shares of players who played in the NCAA', action='store_true')
     parser.add_argument('--playoffs', help='Include playoff win shares', action='store_true')
     parser.add_argument('--sort_total', help='Sort players in Json for each year by decreasing total win shares', action='store_true')
@@ -16,11 +19,17 @@ def main():
     args = parser.parse_args()
     start_year = args.start_year
     end_year = args.end_year
-    num_seasons = args.seasons
+    num_seasons_total = args.seasons_total
+    num_seasons_max = args.seasons_max
     ncaa_only = args.ncaa_only
     playoffs = args.playoffs
+    total_win_shares = args.total_win_shares
+    max_win_shares = args.max_win_shares
     sort_total = args.sort_total
     sort_max = args.sort_max
+
+    if not total_win_shares and not max_win_shares:
+        raise Exception('One of total_win_shares or max_win_shares must be specified')
 
     if end_year == None:
         end_year = 2021
@@ -35,15 +44,24 @@ def main():
         for player in draft_class:
             print(player)
             if player not in exclude_players:
-                player_ncaa_stats = player_api.get_player_ncaa_stats(player_name=player, stat_types=["Per Game", "Per 40", "Per 100 Poss", "Advanced"], year=year)
-                player_total_win_shares = player_api.get_total_win_shares_nba(player_name=player, draft_year=year, start_year=(year+1), num_seasons=num_seasons, playoffs=playoffs)
-                player_max_win_shares = player_api.get_max_win_shares_nba(player_name=player, draft_year=year, start_year=(year+1), num_seasons=num_seasons, playoffs=playoffs)
                 player_stats = {}
-                player_stats['ncaa_stats'] = player_ncaa_stats
                 player_stats['player_name'] = player
-                player_stats['total_win_shares'] = player_total_win_shares
-                player_stats['max_win_shares'] = player_max_win_shares
+
+                player_ncaa_stats = player_api.get_player_ncaa_stats(player_name=player, stat_types=["Per Game", "Per 40", "Per 100 Poss", "Advanced"], year=year)
+                player_stats['ncaa_stats'] = player_ncaa_stats
+
+                player_total_win_shares = None
+                if total_win_shares:
+                    player_total_win_shares = player_api.get_total_win_shares_nba(player_name=player, draft_year=year, start_year=(year+1), num_seasons=num_seasons_total, playoffs=playoffs)
+                    player_stats['total_win_shares'] = player_total_win_shares
+
+                player_max_win_shares = None
+                if max_win_shares:
+                    player_max_win_shares = player_api.get_max_win_shares_nba(player_name=player, draft_year=year, start_year=(year+1), num_seasons=num_seasons_max, playoffs=playoffs)
+                    player_stats['max_win_shares'] = player_max_win_shares
+                
                 players[year].append(player_stats)
+        
         if sort_total or sort_max:
             key = None
             if sort_total:
